@@ -1,0 +1,39 @@
+etagere\_01\_droite\_basse
+
+
+
+* Deux sous d'amour - Auguste le Breton ( vertige carrere 1986 )
+* Il est venu le temps des producteurs - Tatiana Ventôse (Le fil d'actu 2024 )
+* La Case de l'oncle Tom - Harriet Beecher Stowe (Réimp. Amazon 2016)
+* Ces messieurs de Saint-Malo roman - Bernard Simiot (Albin michel 1983)
+* the adventures of tom Sawyer classic starts - retold from Mark Twain original ( sterling 2005 )
+* Atlas de Rome et des barbares IIIe-VIe siècle la fin de l'empire romain en ocident - Hervé Inglebert ( autrement 2009 )
+* Atlas de l'Europe moderne de la renaissance aux lumières - Pierre Yves Beaurepaire ( autrement 2019 ) 
+* Petit atlas historique des temps modernes - Jérôme Hélie ( Armand Colin 2014 )
+* Le glaive et la croix vie de Constantin le grand empereur chrétien - Frank G Slaugther ( presses de la cité 1965 )
+* Jean Bart - Jacques Duquesne ( Edition du seuil 1992 )
+* Odo Nobunaga Gouverne tout ce qui est sous le ciel par l'épée! -Charles-Pierre Serain ( Centon édition 2013 )
+* Mémoires de madame la marquise de Montespan TomeI - M. A. Barginet ( Elibron classics 2006 )
+* La vie des français sous l'occupation - Henri Amouroux ( Fayard 1965 )
+* Louis de Saint-Simon Mémoires - Louis de Saint-Simon ( Elibron classics 2006 )
+* Violette Morris la hyène de la guestap - Raymond Ruffin ( le cherche midi 2004 )
+* Le tour de France par deux enfants - G Bruno ( France Loisir 1984 )
+* Lettres choisies - Madame de Sévigné (Classiques Larousse, v. 1930)
+* Très brève relation de la destruction des indes - Bartolomé de las casas ( La découverte poche 2016 )
+* Versailles 80 vues couleur le château le jardin les trianons - Photographie J. Girard J-C Varga ( Art lys Versailles 1974)
+* Du Guesclin - Georges Minois ( Fayard 1993 )
+* Les grandes figures de l'histoire François 1er - René Guerdan ( Robert Laffont 1981 )
+* Les trois Mousquetaires illustré - Alexandre Dumas (A le vasseur et Cie 2020 )
+* Henri IV le passionné - André Castelot ( Perrin 1996 )
+* Enquète sur le procés du roi Louis XVI - Paul et Pierrette Girault de Coursac ( La table ronde 1984 )
+* Les rois qui ont fait la France Tome 2 Louis XIII - Georges Bordonove ( le grand livre du mois 1983 )
+* Louis XIV -François Bluche ( fayard 1986 succès du livre)
+* Sur la route de Varenne - Paul et Pierrette Girault de Coursac ( La table ronde 1984 )
+* La Vendée\_Vengée  Le génocide franco-français ( Perrin 2006 )
+* La vie des français sous l'occupation édition revue et corrigée - Henri Amouroux ( Aubin 1992 )
+* Sue les traces de la traite des noirs à Bordeaux - Danielle Pétrissans-Cavailés ( L'Harmattan 2004 )
+* Les villes en France aux XVIe XVIIe XVIIIe siècles - B.Garnot ( Synthèse et histoire  Ophrys 1994 )
+* Madame de maintenon - Saint-René Taillandier ( Hachette 1926)
+
+
+
