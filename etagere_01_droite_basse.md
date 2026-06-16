@@ -8,7 +8,7 @@ etagere\_01\_droite\_basse
 * Ces messieurs de Saint-Malo roman - Bernard Simiot (Albin michel 1983)
 * the adventures of tom Sawyer classic starts - retold from Mark Twain original ( sterling 2005 )
 * Atlas de Rome et des barbares IIIe-VIe siècle la fin de l'empire romain en ocident - Hervé Inglebert ( autrement 2009 )
-* Atlas de l'Europe moderne de la renaissance aux lumières - Pierre Yves Beaurepaire ( autrement 2019 ) 
+* Atlas de l'Europe moderne de la renaissance aux lumières - Pierre Yves Beaurepaire ( autrement 2019 )
 * Petit atlas historique des temps modernes - Jérôme Hélie ( Armand Colin 2014 )
 * Le glaive et la croix vie de Constantin le grand empereur chrétien - Frank G Slaugther ( presses de la cité 1965 )
 * Jean Bart - Jacques Duquesne ( Edition du seuil 1992 )
@@ -34,6 +34,4 @@ etagere\_01\_droite\_basse
 * Sue les traces de la traite des noirs à Bordeaux - Danielle Pétrissans-Cavailés ( L'Harmattan 2004 )
 * Les villes en France aux XVIe XVIIe XVIIIe siècles - B.Garnot ( Synthèse et histoire  Ophrys 1994 )
 * Madame de maintenon - Saint-René Taillandier ( Hachette 1926)
-
-
 
