@@ -37,7 +37,7 @@ première étagère droite haut
 
 * ***[Memorial book amachan](livres/Memorial-book-amachan.html)*** NHK stera (2013)
 
-* ***Real action pose collection 01 School Girl Action Hen*** ( Genkosha 2016 )
+* ***[Real action pose collection 01 School Girl Action Hen](livres/Real-action-pose-collection-01-School-Girl-Action-Hen.html)*** ( Genkosha 2016 )
 
 * ***[Ai Takahashi photobook](livres/ai-takahashi-photobook.html)*** (Wanibooks Co. Ltd. 2002)
 
