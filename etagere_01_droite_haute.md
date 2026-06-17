@@ -65,7 +65,7 @@ première étagère droite haut
 
 * ***Love Letter*** – Michishige Sayumi (Wani Books, 2008)
 
-* ***Dōkei*** – Michishige Sayumi (Wani Books, 2009)
+* ***[Dōkei](livres/Dōkei–Michishige-Sayumi.md.html)*** – Michishige Sayumi (Wani Books, 2009)
 
 * ***[17 to Love Hello!](livres/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net (KADOKAWA) 2007 )
 
