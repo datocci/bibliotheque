@@ -40,7 +40,7 @@ première étagère droite haut
 
 ***[See you-Karin Yuuka maeda](livres/See-you-karin.html)*** Photobook ( Wani Books 2011 )
 
-***[Photo technic digital mai 2009 - Michishige Sayumi](livres/sayumi-photo-technic-2009.html)***
+***[Photo technic digital - Michishige Sayumi](livres/sayumi-photo-technic-2009.html)***  mai 2009 
 
 ***[Memew dx akb48](livres/Memew-dx.html)*** 2009 
 
