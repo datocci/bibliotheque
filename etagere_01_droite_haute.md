@@ -32,7 +32,7 @@ première étagère droite haut
 
 ***AKB48 Complete Book 2005-2008*** (sassai books 2008)
 
-***Memorial book amachan NHK stera*** (2013)
+***[Memorial book amachan](livres/Memorial-book-amachan.html)*** NHK stera (2013)
 
 ***Real action pose collection 01 School Girl Action Hen*** ( Genkosha 2016 )
 
