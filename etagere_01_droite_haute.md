@@ -28,7 +28,7 @@ première étagère droite haut
 
 
 
-***AKB48 Weekly Playboy special mag*** Élection générale d'AKB48 ! Annonce surprise en maillot de bain (2009)
+***[AKB48 Weekly Playboy special mag](livres/WPB-Senbatsu-AKB48-bikini.html)*** Élection générale d'AKB48 ! Annonce surprise en maillot de bain (2009)
 
 ***AKB48 Complete Book 2005-2008*** (sassai books 2008)
 
