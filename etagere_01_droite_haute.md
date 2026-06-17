@@ -38,7 +38,7 @@ première étagère droite haut
 
 ***[Ai Takahashi photobook](livres/ai-takahashi-photobook.html)*** (Wanibooks Co. Ltd. 2002)
 
-***See you-Karin Yuuka maeda*** Photobook ( Wani Books 2011 )
+***[See you-Karin] Yuuka maeda(livres/See-you-karin.html)*** Photobook ( Wani Books 2011 )
 
 ***[Photo technic digital mai 2009 - Michishige Sayumi](livres/sayumi-photo-technic-2009.html)***
 
