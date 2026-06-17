@@ -49,7 +49,7 @@ première étagère droite haut
 
 * ***[Akbingo official book](livres/AKB48-Senbatsu-Guidebook-2010.html)*** 2010
 
-* ***[AKB48 General Election Official Guidebook 2010(livres/AKB48-Senbatsu-Guidebook-2010.html)*** with 108 Members Stickers
+* ***[AKB48 General Election Official Guidebook 2010](livres/AKB48-Senbatsu-Guidebook-2010.html)*** with 108 Members Stickers
 
 * ***[AKB48 Wagamama girl friend](livres/AKB48-Wagamama.html)*** Fashion book  Photobook 2010
 
