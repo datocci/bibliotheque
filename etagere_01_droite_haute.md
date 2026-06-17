@@ -28,6 +28,9 @@ première étagère droite haut
 
 
 
+
+
+
 * ***[AKB48 Weekly Playboy special mag](livres/WPB-Senbatsu-AKB48-bikini.html)*** Élection générale d'AKB48 ! Annonce surprise en maillot de bain (2009)
 
 * ***[AKB48 Complete Book 2005-2008](livres/AKB48-Complete-Book-2005-2008.html)*** (sassai books 2008)
@@ -67,6 +70,9 @@ première étagère droite haut
 * ***[17 to Love Hello!](livres/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net (KADOKAWA) 2007 )
 
 * ***Nōnen Rena featuring Amano Aki – Amachan*** Photo Book (NHK Publishing, 2013)
+
+
+
 
 * ***Kran univers Kompil' dans ta face!*** (vent d'ouest 2010)
 
