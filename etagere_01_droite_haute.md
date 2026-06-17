@@ -36,7 +36,7 @@ première étagère droite haut
 
 ***Real action pose collection 01 School Girl Action Hen*** ( Genkosha 2016 )
 
-***Ai Takahashi*** photobook ( wanibooks co ltd 2002 )
+***[Ai Takahashi photobook](livres/ai-takahashi-photobook.html)*** (Wanibooks Co. Ltd. 2002)
 
 ***See you-Karin Yuuka maeda*** Photobook ( Wani Books 2011 )
 
