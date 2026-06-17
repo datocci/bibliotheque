@@ -48,7 +48,7 @@ première étagère droite haut
 
 ***AKB48 General Election Official Guidebook 2010 with 108 Members Stickers***
 
-***AKB48 FASHION BOOK Wagamama girl friend PHOTO BOOK 2010***
+***[AKB48 Wagamama girl friend](livres/Memew-dx.html)*** FASHION BOOK  PHOTOBOOK 2010
 
 ***[UTB Vol. 197](livres/UTB-Vol-197.html)*** – Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
