@@ -64,7 +64,7 @@ première étagère droite haut
 
 ***Dōkei*** – Michishige Sayumi (Wani Books, 2009)
 
-***[17 to Love Hello! - Michishige Sayumi](livres/17-Michishige-Sayumi.html) *** (Kids Net (KADOKAWA) 2007 )
+***[17 to Love Hello!](livres/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net (KADOKAWA) 2007 )
 
 ***Nōnen Rena featuring Amano Aki – Amachan*** Photo Book (NHK Publishing, 2013)
 
