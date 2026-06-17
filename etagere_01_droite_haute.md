@@ -2,7 +2,7 @@ première étagère droite haut
 
 
 
-***Dictionnaire encyclopédique d'histoire Mourre*** COFFRET VOL 1 à 5 (Bordas)
+* ***Dictionnaire encyclopédique d'histoire Mourre*** COFFRET VOL 1 à 5 (Bordas)
 
 ***La guerre de trente ans*** ***1618-1648*** Henry Bogdan (Tempus 2013)
 
