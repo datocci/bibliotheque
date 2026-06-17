@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/Love-Letter-Michishige-Sayumi.jpg)
+![Photo 1](../images/Love-Letter-Michishige-Sayumi.webp)
 
 
 ## Informations
