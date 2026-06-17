@@ -42,7 +42,7 @@ première étagère droite haut
 
 ***[Photo technic digital mai 2009 - Michishige Sayumi](livres/sayumi-photo-technic-2009.html)***
 
-***Memew dx 2009 akb48*** 
+***[Memew dx akb48](livres/Memew-dx.html)*** 2009 
 
 ***Akbingo official book 2010***
 
