@@ -50,7 +50,7 @@ première étagère droite haut
 
 ***AKB48 FASHION BOOK Wagamama girl friend PHOTO BOOK 2010***
 
-***UTB Vol. 197*** – Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
+***[UTB Vol. 197](livres/UTB-Vol-197.html)*** – Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
 ***UTB Vol. 193*** – AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
 
