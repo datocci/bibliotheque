@@ -63,7 +63,7 @@ première étagère droite haut
 
 * ***Sōsō*** – Michishige Sayumi (Wani Books, 2007)
 
-* ***Love Letter*** – Michishige Sayumi (Wani Books, 2008)
+* ***[Love Letter](livres/Dōkei–Michishige-Sayumi.md.html)*** – Michishige Sayumi (Wani Books, 2008)
 
 * ***[Dōkei](livres/Dōkei–Michishige-Sayumi.md.html)*** – Michishige Sayumi (Wani Books, 2009)
 
