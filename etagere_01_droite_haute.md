@@ -55,7 +55,7 @@ première étagère droite haut
 
 * ***[UTB Vol. 197](livres/UTB-Vol-197.html)*** – Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
-* ***UTB Vol. 193*** – AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
+* ***[UTB Vol. 193](livres/UTB-Vol-193.html)*** – AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
 
 * ***[AkKanBe Watarirouka Hashiritai](livres/AkKanBe-Watarirouka-Hashiritai.html)*** 1st Photobook (Shueisha 2009)
 
