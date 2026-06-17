@@ -61,11 +61,11 @@ première étagère droite haut
 
 * ***[Yūko no Arienai Nichijō (La vie quotidienne invraisemblable de Yūko)](livres/Yūko-no-Arienai-Nichijō.html)*** – Oshima Yūko (Shueisha, 2009)
 
-* ***Sōsō*** – Michishige Sayumi (Wani Books, 2007)
+* ***[Sōsō](livres/Sōsō-Michishige-Sayumi.html)*** – Michishige Sayumi (Wani Books, 2007)
 
-* ***[Love Letter](livres/Dōkei–Michishige-Sayumi.md.html)*** – Michishige Sayumi (Wani Books, 2008)
+* ***[Love Letter](livres/Dōkei–Michishige-Sayumi.html)*** – Michishige Sayumi (Wani Books, 2008)
 
-* ***[Dōkei](livres/Dōkei–Michishige-Sayumi.md.html)*** – Michishige Sayumi (Wani Books, 2009)
+* ***[Dōkei](livres/Dōkei–Michishige-Sayumi.html)*** – Michishige Sayumi (Wani Books, 2009)
 
 * ***[17 to Love Hello!](livres/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net (KADOKAWA) 2007 )
 
