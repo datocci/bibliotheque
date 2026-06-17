@@ -30,7 +30,7 @@ première étagère droite haut
 
 ***[AKB48 Weekly Playboy special mag](livres/WPB-Senbatsu-AKB48-bikini.html)*** Élection générale d'AKB48 ! Annonce surprise en maillot de bain (2009)
 
-***AKB48 Complete Book 2005-2008*** (sassai books 2008)
+***[AKB48 Complete Book 2005-2008](livres/AKB48-Complete-Book-2005-2008.html)*** (sassai books 2008)
 
 ***[Memorial book amachan](livres/Memorial-book-amachan.html)*** NHK stera (2013)
 
