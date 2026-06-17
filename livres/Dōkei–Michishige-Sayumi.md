@@ -11,4 +11,4 @@
 
 - Année : 2009
 - Magazine : Photobook
-- Thème : Doukei (憧れ憬) est le troisième livre photo solo de Michishige Sayumi.
+- Thème : Doukei est le troisième livre photo solo de Michishige Sayumi.
