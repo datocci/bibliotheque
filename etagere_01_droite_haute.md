@@ -56,7 +56,7 @@ première étagère droite haut
 
 ***[AkKanBe Watarirouka Hashiritai](livres/AkKanBe-Watarirouka-Hashiritai.html)*** 1st Photobook (Shueisha 2009)
 
-***Yūko no Arienai Nichijō (La vie quotidienne invraisemblable de Yūko)*** – Oshima Yūko (Shueisha, 2008)
+***[Yūko no Arienai Nichijō (La vie quotidienne invraisemblable de Yūko)](livres/Yūko-no-Arienai-Nichijō.html)*** – Oshima Yūko (Shueisha, 2009)
 
 ***Sōsō*** – Michishige Sayumi (Wani Books, 2007)
 
