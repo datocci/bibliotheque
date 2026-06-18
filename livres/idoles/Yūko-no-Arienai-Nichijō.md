@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/Yūko-no-Arienai-Nichijō.jpg)
+![Photo 1](../../images/Yūko-no-Arienai-Nichijō.jpg)
 
 
 ## Informations
