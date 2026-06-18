@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/Dōkei–Michishige-Sayumi.jpg)
+![Photo 1](../../images/Dōkei–Michishige-Sayumi.jpg)
 
 
 ## Informations
