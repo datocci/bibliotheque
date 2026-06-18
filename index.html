@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>Bibliothèque</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 30px; }
+    input { width: 100%; padding: 12px; font-size: 18px; margin-bottom: 20px; }
+    li { margin: 10px 0; }
+  </style>
+</head>
+<body>
+
+<h1>📚 Bibliothèque</h1>
+
+<input type="text" id="search" placeholder="Rechercher un livre, auteur, thème...">
+
+<ul id="bookList">
+  <li><a href="etagere_01_droite_haute.html">Étagère 01 droite haute</a></li>
+  <li><a href="etagere_01_droite_basse.html">Étagère 01 droite basse</a></li>
+  <li><a href="etagere_01_gauche_haute.html">Étagère 01 gauche haute</a></li>
+  <li><a href="etagere_01_gauche_basse.html">Étagère 01 gauche basse</a></li>
+  <li><a href="etagere_02_droite_haute.html">Étagère 02 droite haute</a></li>
+  <li><a href="etagere_02_droite_basse.html">Étagère 02 droite basse</a></li>
+  <li><a href="etagere_02_gauche_haute.html">Étagère 02 gauche haute</a></li>
+  <li><a href="etagere_02_gauche_basse.html">Étagère 02 gauche basse</a></li>
+</ul>
+
+<script>
+  const search = document.getElementById("search");
+  const items = document.querySelectorAll("#bookList li");
+
+  search.addEventListener("keyup", function () {
+    const value = search.value.toLowerCase();
+
+    items.forEach(function (item) {
+      item.style.display = item.textContent.toLowerCase().includes(value)
+        ? ""
+        : "none";
+    });
+  });
+</script>
+
+</body>
+</html>
