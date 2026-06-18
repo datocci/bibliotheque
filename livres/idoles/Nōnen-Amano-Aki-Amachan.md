@@ -4,11 +4,11 @@ PhotoBook (NHK Publishing, 2013)
 
 ## Photo 1
 
-![Photo 1](../images/Nōnen-Amano-Aki-Amachan-1.jpg)
+![Photo 1](../../images/Nōnen-Amano-Aki-Amachan-1.jpg)
 
 ## Photo 1
 
-![Photo 2](../images/Nōnen-Amano-Aki-Amachan-2.jpg)
+![Photo 2](../../images/Nōnen-Amano-Aki-Amachan-2.jpg)
 
 
 ## Informations
