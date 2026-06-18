@@ -4,11 +4,11 @@
 
 ## Photo 1
 
-![Photo 1](../images/WPB-Senbatsu-AKB48-bikini-1.jpg)
+![Photo 1](../../images/WPB-Senbatsu-AKB48-bikini-1.jpg)
 
 ## Photo 2
 
-![Photo 2](../images/WPB-Senbatsu-AKB48-bikini-2.jpg)
+![Photo 2](../../images/WPB-Senbatsu-AKB48-bikini-2.jpg)
 
 ## Informations
 
