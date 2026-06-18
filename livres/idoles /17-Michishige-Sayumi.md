@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/17-Michishige-Sayumi.jpg)
+![Photo 1](../../images/17-Michishige-Sayumi.jpg)
 
 
 ## Informations
