@@ -4,11 +4,11 @@
 
 ## Photo 1
 
-![Photo 1](../images/AkKanBe-Watarirouka-Hashiritai-1.jpg)
+![Photo 1](../../images/AkKanBe-Watarirouka-Hashiritai-1.jpg)
 
 ## Photo 2
 
-![Photo 2](../images/AkKanBe-Watarirouka-Hashiritai-2.jpg)
+![Photo 2](../../images/AkKanBe-Watarirouka-Hashiritai-2.jpg)
 
 ## Informations
 
