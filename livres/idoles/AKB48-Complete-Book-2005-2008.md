@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/AKB48-Complete-Book-2005-2008.jpg)
+![Photo 1](../../images/AKB48-Complete-Book-2005-2008.jpg)
 
 
 ## Informations
