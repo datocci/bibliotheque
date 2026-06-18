@@ -2,4 +2,4 @@
 
 Michishige Sayumi
 
-![Couverture](../images/Photo-technic-Sayumi.jpg)
+![Couverture](../../images/Photo-technic-Sayumi.jpg)
