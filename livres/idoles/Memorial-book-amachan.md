@@ -4,7 +4,7 @@ NHK stera (2013)
 
 ## Photo 1
 
-![Photo 1](../images/Memorial-book-amachan.jpg)
+![Photo 1](../../images/Memorial-book-amachan.jpg)
 
 
 ## Informations
