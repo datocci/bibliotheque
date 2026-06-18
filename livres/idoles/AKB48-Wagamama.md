@@ -4,11 +4,11 @@ FASHION BOOK (2010)
 
 ## Photo 1
 
-![Photo 1](../images/AKB48-Wagamama-1.jpg)
+![Photo 1](../../images/AKB48-Wagamama-1.jpg)
 
 ## Photo 2
 
-![Photo 2](../images/AKB48-Wagamama-2.jpg)
+![Photo 2](../../images/AKB48-Wagamama-2.jpg)
 
 ## Informations
 
