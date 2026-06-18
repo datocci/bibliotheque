@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/Akbingo-official-book-2010.jpg)
+![Photo 1](../../images/Akbingo-official-book-2010.jpg)
 
 
 ## Informations
