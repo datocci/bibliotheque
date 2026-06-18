@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/See-you-karin.jpg)
+![Photo 1](../../images/See-you-karin.jpg)
 
 
 ## Informations
