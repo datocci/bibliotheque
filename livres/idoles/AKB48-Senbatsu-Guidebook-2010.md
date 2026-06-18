@@ -4,7 +4,7 @@ with 108 Members Stickers
 
 ## Photo 1
 
-![Photo 1](../images/AKB48-Senbatsu-Guidebook-2010.jpg)
+![Photo 1](../../images/AKB48-Senbatsu-Guidebook-2010.jpg)
 
 
 ## Informations
