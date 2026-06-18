@@ -4,7 +4,7 @@
 
 ## Photo 1
 
-![Photo 1](../images/Real-action-pose-collection-01-School-Girl-Action-Hen.jpg)
+![Photo 1](../../images/Real-action-pose-collection-01-School-Girl-Action-Hen.jpg)
 
 
 ## Informations
