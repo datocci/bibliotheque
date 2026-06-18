@@ -31,45 +31,45 @@ première étagère droite haut
 
 
 
-***[AKB48 Weekly Playboy special mag](livres/idoles/WPB-Senbatsu-AKB48-bikini.html)*** Élection générale d'AKB48 ! Annonce surprise en maillot de bain (2009)
+* ***[AKB48 Weekly Playboy special mag](livres/idoles/WPB-Senbatsu-AKB48-bikini.html)*** Élection générale d'AKB48 ! Annonce surprise en maillot de bain (2009)
 
-***[AKB48 Complete Book 2005-2008](livres/idoles/AKB48-Complete-Book-2005-2008.html)*** (sassai books 2008)
+* ***[AKB48 Complete Book 2005-2008](livres/idoles/AKB48-Complete-Book-2005-2008.html)*** (sassai books 2008)
 
-***[Memorial book amachan](livres/idoles/Memorial-book-amachan.html)*** NHK stera (2013)
+* ***[Memorial book amachan](livres/idoles/Memorial-book-amachan.html)*** NHK stera (2013)
 
-***[Real action pose collection 01 School Girl Action Hen](livres/idoles/Real-action-pose-collection-01-School-Girl-Action-Hen.html)*** (Genkosha 2016)
+* ***[Real action pose collection 01 School Girl Action Hen](livres/idoles/Real-action-pose-collection-01-School-Girl-Action-Hen.html)*** (Genkosha 2016)
 
-***[Ai Takahashi photobook](livres/idoles/ai-takahashi-photobook.html)*** (Wanibooks Co. Ltd. 2002)
+* ***[Ai Takahashi photobook](livres/idoles/ai-takahashi-photobook.html)*** (Wanibooks Co. Ltd. 2002)
 
-***[See you-Karin Yuuka maeda](livres/idoles/See-you-karin.html)*** Photobook (Wani Books 2011)
+* ***[See you-Karin Yuuka maeda](livres/idoles/See-you-karin.html)*** Photobook (Wani Books 2011)
 
-***[Photo technic digital - Michishige Sayumi](livres/idoles/sayumi-photo-technic-2009.html)*** mai 2009
+* ***[Photo technic digital - Michishige Sayumi](livres/idoles/sayumi-photo-technic-2009.html)*** mai 2009
 
-***[Memew dx akb48](livres/idoles/Memew-dx.html)*** 2009
+* ***[Memew dx akb48](livres/idoles/Memew-dx.html)*** 2009
 
-***[Akbingo official book](livres/idoles/Akbingo-official-book-2010.html)*** 2010
+* ***[Akbingo official book](livres/idoles/Akbingo-official-book-2010.html)*** 2010
 
-***[AKB48 General Election Official Guidebook 2010](livres/idoles/AKB48-Senbatsu-Guidebook-2010.html)*** with 108 Members Stickers
+* ***[AKB48 General Election Official Guidebook 2010](livres/idoles/AKB48-Senbatsu-Guidebook-2010.html)*** with 108 Members Stickers
 
-***[AKB48 Wagamama girl friend](livres/idoles/AKB48-Wagamama.html)*** Fashion book Photobook 2010
+* ***[AKB48 Wagamama girl friend](livres/idoles/AKB48-Wagamama.html)*** Fashion book Photobook 2010
 
-***[UTB Vol. 197](livres/idoles/UTB-Vol-197.html)*** - Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
+* ***[UTB Vol. 197](livres/idoles/UTB-Vol-197.html)*** - Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
-***[UTB Vol. 193](livres/idoles/UTB-Vol-193.html)*** - AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
+* ***[UTB Vol. 193](livres/idoles/UTB-Vol-193.html)*** - AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
 
-***[AkKanBe Watarirouka Hashiritai](livres/idoles/AkKanBe-Watarirouka-Hashiritai.html)*** 1st Photobook (Shueisha 2009)
+* ***[AkKanBe Watarirouka Hashiritai](livres/idoles/AkKanBe-Watarirouka-Hashiritai.html)*** 1st Photobook (Shueisha 2009)
 
-***[Yūko no Arienai Nichijō](livres/idoles/Yuko-no-Arienai-Nichijo.html)*** Oshima Yuko (Shueisha, 2009)
+* ***[Yūko no Arienai Nichijō](livres/idoles/Yuko-no-Arienai-Nichijo.html)*** Oshima Yuko (Shueisha, 2009)
 
-***[Sōsō](livres/idoles/Soso-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2007)
+* ***[Sōsō](livres/idoles/Soso-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2007)
 
-***[Love Letter](livres/idoles/Love-Letter-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2008)
+* ***[Love Letter](livres/idoles/Love-Letter-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2008)
 
-***[Dōkei](livres/idoles/Dokei-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2009)
+* ***[Dōkei](livres/idoles/Dokei-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2009)
 
-***[17 to Love Hello!](livres/idoles/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net KADOKAWA 2007)
+* ***[17 to Love Hello!](livres/idoles/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net KADOKAWA 2007)
 
-***[Nōnen Rena featuring Amano Aki - Amachan](livres/idoles/Nonen-Amano-Aki-Amachan.html)*** Photo Book (NHK Publishing, 2013)
+* ***[Nōnen Rena featuring Amano Aki - Amachan](livres/idoles/Nonen-Amano-Aki-Amachan.html)*** Photo Book (NHK Publishing, 2013)
 
 
 
