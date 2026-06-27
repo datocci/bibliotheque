@@ -63,7 +63,7 @@ première étagère droite haut
 
 * ***[AkKanBe Watarirouka Hashiritai](livres/idoles/AkKanBe-Watarirouka-Hashiritai.html)*** 1st Photobook (Shueisha 2009)
 
-* ***[Yūko no Arienai Nichijō](livres/idoles/Yuko-no-Arienai-Nichijo.html)*** Oshima Yuko (Shueisha, 2009)
+* ***[Yūko no Arienai Nichijō](livres/idoles/Yūko-no-Arienai-Nichijō.html)*** Oshima Yuko (Shueisha, 2009)
 
 * ***[Sōsō](livres/idoles/Soso-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2007)
 
