@@ -23,4 +23,5 @@ etagere\_01\_gauche\_basse
 * ***Versailles*** : invitation privée - Guillaume Picon , photographie Françoise Hammond (Skira Flammarion 2011)
 * ***Catalogue Manufrance 1922*** - Collectif ( Manufacture Française d'Armes et Cycles de Saint-Étienne, 1922 )
 * ***Divertissements à Marly au temps de Louis XIV (1686-1715)*** - Collectif ( Musée-Promenade de Marly-le-Roi / Louveciennes, 1990 )
+* ***Atlas de la seconde guerre mondiale*** - Yann Magdelaine ( edition ouest france 2026 )
 
