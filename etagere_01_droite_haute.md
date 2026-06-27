@@ -65,15 +65,15 @@ première étagère droite haut
 
 * ***[Yūko no Arienai Nichijō](livres/idoles/Yūko-no-Arienai-Nichijō.html)*** Oshima Yuko (Shueisha, 2009)
 
-* ***[Sōsō](livres/idoles/Soso-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2007)
+* ***[Sōsō](livres/idoles/Sōsō-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2007)
 
 * ***[Love Letter](livres/idoles/Love-Letter-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2008)
 
-* ***[Dōkei](livres/idoles/Dokei-Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2009)
+* ***[Dōkei](livres/idoles/Dōkei–Michishige-Sayumi.html)*** - Michishige Sayumi (Wani Books, 2009)
 
 * ***[17 to Love Hello!](livres/idoles/17-Michishige-Sayumi.html)*** - Michishige Sayumi (Kids Net KADOKAWA 2007)
 
-* ***[Nōnen Rena featuring Amano Aki - Amachan](livres/idoles/Nonen-Amano-Aki-Amachan.html)*** Photo Book (NHK Publishing, 2013)
+* ***[Nōnen Rena featuring Amano Aki - Amachan](livres/idoles/Nōnen-Amano-Aki-Amachan.html)*** Photo Book (NHK Publishing, 2013)
 
 
 
