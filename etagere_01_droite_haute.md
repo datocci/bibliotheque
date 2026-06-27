@@ -39,6 +39,8 @@ première étagère droite haut
 
 * ***[Real action pose collection 01 School Girl Action Hen](livres/idoles/Real-action-pose-collection-01-School-Girl-Action-Hen.html)*** (Genkosha 2016)
 
+* ***[Alo-Hello! Ai Takahashi photobook](livres/idoles/Alo-Hello!-Ai-Takahashi.html)*** (Wanibooks Co. Ltd. 2003)
+
 * ***[Ai Takahashi photobook](livres/idoles/ai-takahashi-photobook.html)*** (Wanibooks Co. Ltd. 2002)
 
 * ***[See you-Karin Yuuka maeda](livres/idoles/See-you-karin.html)*** Photobook (Wani Books 2011)
