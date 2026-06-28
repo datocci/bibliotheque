@@ -63,6 +63,8 @@ première étagère droite haut
 
 * ***[AKB48 B.L.T decembre 2009](livres/idoles/B.L.T-decembre-2009.html)***
 
+* ***[Weekly Shōnen Magazine n°17 2010](livres/idoles/Weekly-Shōnen-Magazine-n°17-2010.html)***
+
 * ***[UTB Vol. 197](livres/idoles/UTB-Vol-197.html)*** - Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
 * ***[UTB Vol. 193](livres/idoles/UTB-Vol-193.html)*** - AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
