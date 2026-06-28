@@ -17,10 +17,6 @@
 
 ![Photo 3](../../images//Entame-fevrier-2011-akb48-3.jpg)
 
-## Photo 4
-
-![Photo 3](../../images//Entame-fevrier-2011-akb48-4.jpg)
-
 
 
 
