@@ -57,6 +57,8 @@ première étagère droite haut
 
 * ***[AKB48 Wagamama girl friend](livres/idoles/AKB48-Wagamama.html)*** Fashion book Photobook 2010
 
+* ***[AKB48 ENTAME FEVRIER 2011](livres/idoles/Entame-fevrier-2011-akb48.html)***
+
 * ***[UTB Vol. 197](livres/idoles/UTB-Vol-197.html)*** - Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
 * ***[UTB Vol. 193](livres/idoles/UTB-Vol-193.html)*** - AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
