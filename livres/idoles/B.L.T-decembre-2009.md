@@ -13,7 +13,13 @@
 
 ![Photo 3](../../images/B.L.T-decembre-2009-2.jpg)
 
+## Photo 4
 
+![Photo 2](../../images/B.L.T-decembre-2009-3.jpg)
+
+## Photo 5
+
+![Photo 3](../../images/B.L.T-decembre-2009-4.jpg)
 
 
 ## Informations
