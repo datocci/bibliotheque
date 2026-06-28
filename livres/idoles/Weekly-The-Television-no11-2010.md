@@ -1,4 +1,4 @@
-# AKB48 ENTAME FEVRIER 2011
+# Weekly The Television n°11 2010
 
 
 ## Photo 1
