@@ -13,7 +13,9 @@
 
 ![Photo 3](../../images/Weekly-Young-Magazine-n°14-2010-2.jpg)
 
+## Photo 4
 
+![Photo 3](../../images/Weekly-Young-Magazine-n°14-2010-3.jpg)
 
 
 ## Informations
