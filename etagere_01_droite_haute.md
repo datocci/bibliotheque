@@ -65,6 +65,12 @@ première étagère droite haut
 
 * ***[Weekly Shōnen Magazine n°17 2010](livres/idoles/Weekly-Shōnen-Magazine-n°17-2010.html)***
 
+* ***[Young-Magazine-n°15-2010](livres/idoles/Young-Magazine-n°15-2010.html)***
+
+* ***[Weekly-Young-Magazine-n°14-2010](livres/idoles/Weekly-Young-Magazine-n°14-2010.html)***
+
+* ***[Weekly-Playboy-34-35-aout-2010](livres/idoles/Weekly-Playboy-34-35-aout-2010.html)***
+
 * ***[UTB Vol. 197](livres/idoles/UTB-Vol-197.html)*** - Sakuraba Nanami / S/mileage / Yajima Maimi / Watanabe Mayu (Wani Books, juin 2010)
 
 * ***[UTB Vol. 193](livres/idoles/UTB-Vol-193.html)*** - AKB48 / Narumi Riko / Mano Erina / Yajima Maimi / Sakuraba Nanami (Wani Books nov. 2009)
