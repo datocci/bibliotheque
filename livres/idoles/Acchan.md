@@ -8,15 +8,15 @@ Shueisha • 2010
 
 ## Aperçu
 
-![Couverture](../../images/Acchan.webp)
+![Couverture](../../images/Atsuchan.webp)
 
-![Photo 1](../../images/Acchan-1.jpg)
+![Photo 1](../../images/Atsuchan-1.jpg)
 
-![Photo 2](../../images/Acchan-2.jpg)
+![Photo 2](../../images/Atsuchan-2.jpg)
 
-![Photo 3](../../images/Acchan-3.jpg)
+![Photo 3](../../images/Atsuchan-3.jpg)
 
-![Photo 4](../../images/Acchan-4.jpg)
+![Photo 4](../../images/Atsuchan-4.jpg)
 
 ## Informations
 
