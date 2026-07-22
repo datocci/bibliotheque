@@ -12,6 +12,8 @@ Shinyusha • 2010
 
 ![Photo 1](../../images/Kanna-1.jpg)
 
+![Photo 1](../../images/Kanna-3.jpg)
+
 ![Photo 2](../../images/Kanna-2.jpg)
 
 
