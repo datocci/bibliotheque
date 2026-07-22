@@ -6,7 +6,7 @@ Kodansha • 2014
 
 ## Aperçu
 
-![Photo 1](../../images/Shiranai-Uchi-ni.webp)
+![Photo 1](../../images/Shiranai-Uchi-ni.jpg)
 
 
 ![Photo 1](../../images/Shiranai-Uchi-ni-1.jpg)
