@@ -8,7 +8,7 @@ Shueisha • 2010
 
 ## Aperçu
 
-![Couverture](../../images/Atsuchan.webp)
+![Couverture](../../images/Atsuchan.jpg)
 
 ![Photo 1](../../images/Atsuchan-1.jpg)
 
