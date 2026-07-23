@@ -12,7 +12,7 @@ Wani Books • 2010
 
 ![Couverture](../../images/UpToBoy-196.jpg)
 
-![Photo 1](../../images/UpToBoy-196-1.jpg.jpg)
+![Photo 1](../../images/UpToBoy-196-1.jpg)
 ![Photo 2](../../images/UpToBoy-196-2.jpg)
 ![Photo 3](../../images/UpToBoy-196-3.jpg)
 ![Photo 4](../../images/UpToBoy-196-4.jpg)
