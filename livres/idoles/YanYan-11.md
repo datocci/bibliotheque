@@ -18,6 +18,7 @@ Tokuma Shoten • 2010
 ![Photo 2](../../images/YanYan-011-2.jpg)
 ![Photo 3](../../images/YanYan-011-3.jpg)
 ![Photo 4](../../images/YanYan-011-4.jpg)
+![Photo 4](../../images/YanYan-011-5.jpg)
 
 ---
 
