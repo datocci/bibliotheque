@@ -128,13 +128,8 @@ largement inspirés des vacances d'été, le shooting de
 2014 adopte une esthétique beaucoup plus épurée.
 
 Le blanc domine presque toutes les compositions.
-
-Décors, mobilier, architecture et lumière participent à
-la création d'un univers très lumineux où les couleurs
-des costumes deviennent les principaux repères visuels.
-
-Les costumes reprennent une palette de couleurs
-différentes selon les membres.
+les couleurs des costumes deviennent les principaux repères visuels,
+reprennant une palette de couleurs différentes selon les membres.
 
 Mayuyu apparaît presque exclusivement en blanc,
 renforçant l'image de "reine" ou de "figure centrale"
@@ -160,10 +155,7 @@ continuité entre les différentes catégories du classement.
 
 Les trois groupes suivants poursuivent cette logique.
 
-Malgré un nombre de pages plus réduit par membre,
-l'ouvrage conserve une présentation homogène et évite de
-donner l'impression que seules les premières places sont
-mises en valeur.
+Malgré un nombre de pages plus réduit par membre.
 
 Les portraits restent soignés et les interviews permettent
 à chacune d'exprimer ses réactions au résultat obtenu.
@@ -218,7 +210,4 @@ Elle immortalise la seule victoire de Watanabe Mayu au
 Senbatsu Sousenkyo et marque la fin d'une rivalité qui
 avait dominé plusieurs éditions successives.
 
-L'association entre portraits, interviews, messages
-manuscrits et documentation sur l'élection en fait un
-ouvrage hybride, situé entre le photobook, le magazine
-et le livre d'archives.
+
