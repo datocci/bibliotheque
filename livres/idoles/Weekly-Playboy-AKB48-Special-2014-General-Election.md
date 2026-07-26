@@ -18,8 +18,8 @@ Shueisha • 2014
 ![Photo 2](../../images/AKB48-Mizugi-Surprise-2014-2.jpg)
 ![Photo 3](../../images/AKB48-Mizugi-Surprise-2014-3.jpg)
 ![Photo 4](../../images/AKB48-Mizugi-Surprise-2014-4.jpg)
-![Photo 4](../../images/AKB48-Mizugi-Surprise-2014-5.jpg)
-![Photo 4](../../images/AKB48-Mizugi-Surprise-2014-6.jpg)
+![Photo 5](../../images/AKB48-Mizugi-Surprise-2014-5.jpg)
+![Photo 6](../../images/AKB48-Mizugi-Surprise-2014-6.jpg)
 
 ![Quatrième de couverture](../../images/AKB48-Mizugi-Surprise-2014-7.jpg)
 
