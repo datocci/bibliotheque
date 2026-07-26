@@ -206,8 +206,25 @@ participantes.
 Cette édition occupe une place particulière dans la série
 **Mizugi Surprise**.
 
+
+
 Elle immortalise la seule victoire de Watanabe Mayu au
 Senbatsu Sousenkyo et marque la fin d'une rivalité qui
 avait dominé plusieurs éditions successives.
 
 
+## Artistes suivies dans cette collection
+
+> Les étoiles indiquent l’importance de l’artiste dans cette
+> publication, et non une appréciation de l’artiste.
+>
+> ★★★★★ Dossier majeur • ★★★★☆ Présence importante •
+> ★★★☆☆ Bon dossier secondaire • ★★☆☆☆ Présence limitée •
+> ★☆☆☆☆ Apparition
+
+| Artiste | Présence | Solo | Autres apparitions |
+|---------|:--------:|:----:|--------------------|
+| Watanabe Mayu | ★★★★★ | 6 pages | Couverture • quatrième • plus de 6 pages collectives |
+| Miyawaki Sakura | ★★★☆☆ | 2 pages | 1 duo • 2 ensembles |
+| Kawaei Rina | ★★★☆☆ | 3 pages | 3 ensembles |
+| Ichikawa Miori | ★★☆☆☆ | 1 page | 1 ensemble |
