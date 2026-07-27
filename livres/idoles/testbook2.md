@@ -305,11 +305,11 @@ Le point fort du volume reste le traitement réservé à
 
 ### Watanabe Mayu
 
-Le point fort du volume reste le traitement réservé à **Watanabe Mayu**. Sa tenue, limitée à un simple bikini parfois surmonté d'ailes blanches, offre des vues particulièrement alléchantes sous différents angles, mettant en valeur ses fesses et rappelant son image de « princesse oshiri ».
+Le point fort du volume reste le traitement réservé à **Watanabe Mayu**. Sa tenue, limitée à un simple bikini parfois surmonté d'ailes blanches, offre des vues particulièrement alléchantes sous différents angles, mettant en valeur son joli cul et ses hanche parfaite , rappelant son image de « princesse oshiri ».
 
 ### Miyawaki Sakura
 
-**Miyawaki Sakura** constitue également l'un des principaux intérêts du volume. Tout aussi sexy et appétissante dans son bikini jaune, elle séduit par son joli sourire. On regrettera toutefois l'absence de clichés mettant davantage en valeur ses fesses.
+**Miyawaki Sakura** constitue également l'un des principaux intérêts du volume. Tout aussi sexy et appétissante dans son bikini jaune, elle séduit par son joli sourire et ses seins genéreux, les poses offres tout de même de belle vue sur son intimité qu'habille gentilement son slip de bain, mais que nos yeux arraches sans pudeur  . On regrettera toutefois l'absence de clichés mettant davantage en valeur son petit cul.
 
 ### Ichikawa Miori
 
