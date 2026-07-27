@@ -3161,7 +3161,17 @@ Lorsque la rubrique **Réception des fans** est présente, vérifier que :
 - [ ] les éventuelles citations sont authentiques ;
 - [ ] aucune citation n'a été inventée ;
 - [ ] aucune réaction isolée n'est présentée comme une tendance.
+- [ ] Raconter la mémoire laissée par cette publication auprès des lecteurs.
 
+Ne pas produire une synthèse froide.
+
+Faire ressortir les réactions les plus représentatives.
+
+Lorsque des commentaires authentiques existent, intégrer une ou deux courtes citations particulièrement représentatives.
+
+La rubrique doit donner l'impression d'entendre les discussions de l'époque, tout en restant fidèle aux sources..
+
+      
 Si ces conditions ne sont pas remplies, supprimer la rubrique.
 
 ---
