@@ -3171,6 +3171,19 @@ Lorsque des commentaires authentiques existent, intégrer une ou deux courtes ci
 
 La rubrique doit donner l'impression d'entendre les discussions de l'époque, tout en restant fidèle aux sources..
 
+Cette rubrique ne cherche pas à résumer des avis.
+
+Elle cherche à conserver la mémoire laissée par cette publication auprès de ses lecteurs.
+
+Après sa lecture, le collectionneur doit comprendre ce que les fans ont retenu de cette édition plusieurs années après sa sortie.
+
+La rubrique doit faire ressortir les réactions les plus représentatives plutôt que de dresser une liste de remarques.
+
+Lorsque des commentaires représentatifs existent, ils constituent le cœur de la rubrique.
+
+La synthèse doit servir à relier ces réactions, non à les remplacer.
+
+Les citations ne sont pas décoratives : elles permettent de faire entendre la voix des lecteurs de l'époque.
       
 Si ces conditions ne sont pas remplies, supprimer la rubrique.
 
