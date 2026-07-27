@@ -3187,6 +3187,13 @@ Les citations ne sont pas décoratives : elles permettent de faire entendre la v
       
 Si ces conditions ne sont pas remplies, supprimer la rubrique.
 
+
+La suppression de la rubrique "Réception des lecteurs" constitue un dernier recours.
+
+Avant de la supprimer, explorer successivement les blogs japonais, les forums de fans, les avis de librairies japonaises, les archives Web et les communautés internationales lorsqu'elles sont pertinentes.
+
+Ce n'est qu'après avoir constaté l'absence de réception suffisamment documentée que la rubrique peut être omise.
+
 ---
 
 ## 16.7. Vérification de la lisibilité
