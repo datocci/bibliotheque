@@ -3204,6 +3204,8 @@ Lorsque plusieurs témoignages convergent, raconter cette mémoire sous une form
 
 Lorsque des citations représentatives existent réellement, en intégrer une ou deux très courtes afin de faire entendre la voix des lecteurs.
 
+Cette rubrique ne cherche pas à résumer des avis. Elle cherche à préserver la mémoire collective laissée par cette publication. Le lecteur doit avoir l'impression d'entendre les discussions des collectionneurs de l'époque plutôt que de lire une synthèse statistique.
+
 Ce n'est qu'après avoir constaté l'absence de réception suffisamment documentée que la rubrique peut être omise.
 
 ### Contrôle qualité de la rubrique
