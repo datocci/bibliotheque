@@ -3194,6 +3194,16 @@ Avant de la supprimer, explorer successivement les blogs japonais, les forums de
 
 Ce n'est qu'après avoir constaté l'absence de réception suffisamment documentée que la rubrique peut être omise.
 
+### Contrôle qualité de la rubrique
+
+Avant de valider cette rubrique, se poser les questions suivantes :
+
+- Après lecture, comprend-on ce que les fans ont retenu de cette publication ?
+- A-t-on l'impression d'entendre la communauté plutôt que le documentaliste ?
+- Les réactions dominantes sont-elles clairement identifiables ?
+- Une ou deux citations représentatives ont-elles été intégrées lorsqu'elles existent réellement ?
+- La rubrique apporte-t-elle quelque chose qu'aucune autre section de la fiche n'apporte ?
+
 ---
 
 ## 16.7. Vérification de la lisibilité
