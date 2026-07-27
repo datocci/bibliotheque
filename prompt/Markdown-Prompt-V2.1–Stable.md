@@ -3415,4 +3415,27 @@ Il est de produire des fiches cohérentes, agréables à consulter, faciles à c
 
 ---
 
+# 20 Point essentiel sources a consulter et artistes suivis
+
+Ne pas se limiter aux premiers résultats. Chercher notamment : • sources bibliographiques ; • librairies japonaises ; • marketplaces ; • blogs japonais ; • archives de fans ; • forums anglophones ; • archives chinoises ou taïwanaises lorsque pertinentes ; • archives Internet ; • presse spécialisée. Chaque catégorie répond à une question différente. L'objectif n'est pas d'accumuler des liens, mais de reconstituer la mémoire documentaire de la publication. Niveau 1 — Sources incontournables (toujours) Bibliographie Amazon Japan Rakuten Books HMV Japan Tower Records Japan Kinokuniya CDJapan Neowing Objectif : date ISBN format bonus résumé éditeur crédits Bases de données Suruga-ya Mandarake BookOff Yahoo! Auctions Mercari Rakuma Objectif : variantes présence du poster bonus état scans de couverture quatrième Niveau 2 — Blogs japonais (très importants) C'est probablement la catégorie la plus riche. Ameblo Les fans faisaient énormément de comptes rendus. Objectif : impressions photos achats contenu scans Hatena Blog Très bon pour les longues critiques. FC2 Blog Souvent d'anciens collectionneurs. Livedoor Blog Yahoo!ブログ (archives) Même si fermé. Les archives existent parfois. Excite Blog Cocolog Niveau 3 — Communautés de fans Stage48 Indispensable. Objectif : réactions contexte popularité discussions JPHiP Très intéressant pour les scans. Hello! Online Surtout si H!P. Reddit Uniquement si pertinent. X (Twitter) Archives si elles existent. Niveau 4 — Archives de scans C'est là que se trouvent souvent les informations absentes ailleurs. Exemples : blogs chinois blogs taïwanais Baidu Tieba forums coréens Souvent : scans complets pagination bonus Niveau 5 — Archives Web Très important. Internet Archive Pour retrouver : blogs disparus pages supprimées boutiques anciennes Niveau 6 — Sites spécialisés AKB Par exemple : Wiki48 AKB48 Journal anciens fansites Pour : contexte élections photographe Niveau 7 — Réseaux sociaux Uniquement si utiles. Par exemple : anciens tweets blogs des membres Google+ Niveau 8 — Presse Quand disponible. Natalie Oricon BARKS Musicman Très utile pour : sortie interviews contexte Niveau 9 — Sites d'occasion Étonnamment riches. Parce qu'ils montrent souvent : le poster les bonus le dos les défauts
+
+ARTISTES SUIVIES (par ordre de priorité)
+
+1. Watanabe Mayu
+2. Takahashi Ai
+3. Tanaka Reina
+4. Nakajima Saki
+5. Maeda Yuuka
+6. Miki Fujimoto
+7. Maeda Atsuko
+8. Miyawaki Sakura
+9. Kawaei Rina
+10. Michishige Sayumi
+11. Ichikawa Miori
+12. Suzuki Airi
+13. Yagami Kumi
+14. Kamei Eri
+
+---
+
 # FIN DU PROMPT
