@@ -26,6 +26,8 @@ Shueisha • 2014
 
 ![Watanabe Mayu — célébration de la première place](../../images/AKB48-Mizugi-Surprise-2014-6.jpg)
 
+![Watanabe Mayu — 4ème de couverture](../../images/AKB48-Mizugi-Surprise-2014-7.jpg)
+
 ---
 
 ## Informations
