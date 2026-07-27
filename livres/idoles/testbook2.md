@@ -304,11 +304,15 @@ photographique du sousenkyo 2014.
 Le point fort du volume reste le traitement réservé à
 
 **Watanabe Mayu**. 
-sa tenues est sexy limitée a un bikini parfois surmonté d'ailes blanches elle offre des vues alléchante sous differants angles,
+*Sa tenues est sexy limitée a un bikini parfois surmonté d'ailes blanches elle offre des vues alléchante sous differants angles,
 mettant en valeur ses fesses renvoyant a son image de princesse oshiri.
-La présence de **Miyawaki Sakura** constitue également un intérêt important, 
+
+**Miyawaki Sakura**
+*Constitue également un intérêt important, 
 toute aussi sexy avec un bikini jaune et un joli sourire bien qu'on regrettera l'abscence de vue sur ses fesses.
-Miorin ne possède qu'une seule page mais un sourire frais et un petit bikini jaune rappelant son surnom de fresh lemon 
+
+### Ichikawa Miori**
+*Ne possède qu'une seule page mais un sourire frais et un petit bikini jaune rappelant son surnom de fresh lemon 
 
 
 
