@@ -3192,6 +3192,18 @@ La suppression de la rubrique "Réception des lecteurs" constitue un dernier rec
 
 Avant de la supprimer, explorer successivement les blogs japonais, les forums de fans, les avis de librairies japonaises, les archives Web et les communautés internationales lorsqu'elles sont pertinentes.
 
+Objectif de cette rubrique:
+
+Cette rubrique ne cherche pas à résumer des avis.
+
+Elle cherche à préserver la mémoire laissée par cette publication auprès de sa communauté.
+
+Le lecteur doit avoir l'impression d'entendre les discussions de l'époque plutôt que de lire une synthèse statistique.
+
+Lorsque plusieurs témoignages convergent, raconter cette mémoire sous une forme narrative.
+
+Lorsque des citations représentatives existent réellement, en intégrer une ou deux très courtes afin de faire entendre la voix des lecteurs.
+
 Ce n'est qu'après avoir constaté l'absence de réception suffisamment documentée que la rubrique peut être omise.
 
 ### Contrôle qualité de la rubrique
@@ -3438,4 +3450,14 @@ ARTISTES SUIVIES (par ordre de priorité)
 
 ---
 
+
+# 21 contrôle qualité
+
+
+La fiche donne-t-elle envie d'ouvrir la publication ?
+Chaque rubrique répond-elle à une question différente ?
+Une idée importante apparaît-elle une seule fois ?
+Les artistes suivies sont-elles correctement mises en valeur sans fausser la hiérarchie réelle ?
+La rubrique "Réception des fans" donne-t-elle l'impression d'entendre la communauté de l'époque plutôt que le documentaliste ?
+Au moins une information de la fiche aurait-elle été difficile à trouver sans ce travail documentaire ?
 # FIN DU PROMPT
