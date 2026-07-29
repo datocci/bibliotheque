@@ -247,7 +247,7 @@ Avec le recul, les lecteurs ne semblent pas avoir retenu une séance photo parti
 
 
 
-## Supports associés au shooting
+## Publications issues du même shooting
 
 ### Weekly Playboy n°34-35 (27 août 2012)
 
