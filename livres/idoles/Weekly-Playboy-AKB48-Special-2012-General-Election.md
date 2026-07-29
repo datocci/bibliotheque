@@ -26,386 +26,248 @@ Aperçu
 
 
 
-Informations
+# Informations
 
-Titre original : AKB48 General Election! Mizugi Surprise Announcement 2012
+| Élément | Détail |
+|----------|--------|
+| Titre japonais | AKB48総選挙！水着サプライズ発表2012 |
+| Titre romanisé | AKB48 Sōsenkyo! Mizugi Surprise Happyō 2012 |
+| Éditeur | Shueisha |
+| Rédaction | Weekly Playboy |
+| Collection | AKB48 Special Mook |
+| Date de parution | 1 août 2012 |
+| Prix d'origine | 1 200 ¥ (1 143 ¥ HT) |
+| Pagination | 176 pages |
+| Format | A4 (210 × 297 mm) |
+| ISBN | 978-4-08-102147-5 |
+| Code magazine | 64345-50 |
+| Impression | Couleur |
 
-Titre japonais : AKB48総選挙！水着サプライズ発表2012
+---
 
-Transcription : AKB48 Sōsenkyo! Mizugi Surprise Happyō 2012
+# Aperçu
 
-Groupes : AKB48 • SKE48 • NMB48 • HKT48
+![Photo 1](../../images/AKB48-Mizugi-Surprise-2012-1.jpg)
 
-Collection / Série : AKB48 Special Mook • Mizugi Surprise
+![Photo 2](../../images/AKB48-Mizugi-Surprise-2012-2.jpg)
 
-Éditeur : Shueisha
+![Photo 3](../../images/AKB48-Mizugi-Surprise-2012-3.jpg)
 
-Rédaction : Weekly Playboy
+![Photo 4](../../images/AKB48-Mizugi-Surprise-2012-4.jpg)
 
-Date de sortie : 1er août 2012
+![Photo 5](../../images/AKB48-Mizugi-Surprise-2012-5.jpg)
 
-Prix d’origine : 1 200 ¥ TTC(1 143 ¥ hors taxe)
+![Photo 6](../../images/AKB48-Mizugi-Surprise-2012-6.jpg)
 
-Pagination : 176 pages
+![Photo 7](../../images/AKB48-Mizugi-Surprise-2012-7.jpg)
 
-Format : grand mook proche de l’A4
+![Photo 8](../../images/AKB48-Mizugi-Surprise-2012-8.jpg)
 
-Hauteur : 300 mm
+![Photo 9](../../images/AKB48-Mizugi-Surprise-2012-9.jpg)
 
-ISBN : 978-4-08-102147-5
+![Photo 10](../../images/AKB48-Mizugi-Surprise-2012-10.jpg)
 
-Code magazine : 64345-50
+![Photo 11](../../images/AKB48-Mizugi-Surprise-2012-11.jpg)
 
-Impression : entièrement en couleurs
+---
 
-Photographie : réalisation collective créditant plusieurs photographes
+# Artistes suivies dans cette collection
 
-Bonus annoncés :
+> Les étoiles indiquent l'importance de l'artiste dans cette publication, et non une appréciation de l'artiste.
 
-poster A1 recto-verso de 560 × 840 mm ;
+| Artiste | Présence | Solo | Autres apparitions |
+|---------|:--------:|:----:|--------------------|
+| **Oshima Yuko** | ★★★★★ | 6 pages | Couverture • 1 duo • 4 ensembles |
+| **Watanabe Mayu** | ★★★★☆ | 4 pages | Couverture • 1 duo • 3 ensembles |
+| **Yagami Kumi** | ★★☆☆☆ | 2 pages | 2 ensembles |
 
-planche d’autocollants « Best of 48 » ;
+---
 
-tapis de souris « 神7 ».
+# Contexte
 
-Autres offres : posters exclusifs distribués par certaines chaînes de supérettes.
+Publié moins de deux mois après le quatrième **AKB48 Senbatsu Sousenkyo**, *AKB48総選挙！水着サプライズ発表2012* constitue l'archive officielle de l'un des tournants majeurs de l'histoire du groupe.
 
-Exemplaire étudié : présence des onglets imprimés et des pages intérieures confirmée ; complétude des trois bonus à vérifier séparément.
+L'élection du 6 juin 2012 marque plusieurs évolutions importantes. Pour la première fois, le classement est étendu à **64 membres**, réparties entre les **Selected Members**, **Under Girls**, **Next Girls** et **Future Girls**. Les groupes sœurs occupent désormais une place essentielle dans la compétition, tandis que l'annonce de la future graduation de **Maeda Atsuko** ouvre une nouvelle période pour AKB48.
 
-Artistes suivies dans cette collection
+L'ensemble du volume est construit autour de cette évolution. Les résultats du Sousenkyo déterminent l'ordre de présentation des membres, la structure des différents chapitres et les nombreux portraits réalisés spécialement pour cette publication. Plus qu'un simple recueil de photographies en maillot de bain, l'ouvrage cherche à conserver une trace durable de l'événement en réunissant les classements, les interviews, les reportages et les réactions des participantes.
 
-Les étoiles indiquent l’importance de l’artiste dans cette publication, et non une appréciation de l’artiste.
+---
 
-★★★★★ Dossier majeur
+# Les suppléments
 
-★★★★☆ Présence importante
+Comme les précédents volumes de la série *Mizugi Surprise*, cette édition était accompagnée de plusieurs bonus destinés aux collectionneurs.
 
-★★★☆☆ Bon dossier secondaire
+L'ouvrage comprend un **poster A1 recto-verso**, une **planche de 48 autocollants** ainsi qu'un **tapis de souris consacré au Kami 7**.
 
-★★☆☆☆ Présence limitée
+Les dernières pages reproduisent chacun de ces suppléments. Elles permettent aujourd'hui d'identifier rapidement un exemplaire complet, les bonus ayant souvent été séparés du livre au fil des années.
 
-★☆☆☆☆ Apparition
 
-Artiste
+# Sommaire
 
-Présence
+Le volume suit fidèlement la hiérarchie du quatrième Senbatsu Sousenkyo. La progression des chapitres accompagne le classement officiel, des seize **Selected Members** jusqu'aux **Future Girls**, avant de laisser place aux reportages, interviews et documents consacrés à l'élection.
 
-Solo
+La structure générale est la suivante :
 
-Autres apparitions
+- **Selected Members** (1re à 16e place)
+- **Under Girls** (17e à 32e place)
+- **Reportage complet du quatrième Senbatsu Sousenkyo**
+- **Next Girls** (33e à 48e place)
+- **Future Girls** (49e à 64e place)
+- **Manga :** *TKM48 徳さん川柳危機一髪*
+- **Une journée avec Maeda Atsuko**
+- **Reportages des théâtres AKB48, SKE48, NMB48 et HKT48**
+- **Regards croisés de quatre commentateurs sur l'élection**
+- **172 messages manuscrits des Waiting Girls**
+- **AKB48 Offshot Paradise 2012**
 
-Watanabe Mayu
+Cette organisation alterne constamment photographies, documents d'archives et reportages. Le lecteur revit ainsi l'élection dans le même ordre que sa révélation publique : les résultats, les réactions des membres, puis les conséquences de ce nouveau classement sur l'organisation du groupe.
 
-★★★★★
+---
 
-environ 4 pages
+# Contenu
 
-Couverture • poster • photographies du Top 3 • ensembles du senbatsu
+Contrairement à de nombreux ouvrages consacrés aux AKB48, *Mizugi Surprise 2012* ne se limite pas à une succession de séances photographiques. Les portraits en maillot de bain servent avant tout à mettre en scène le classement du Sousenkyo, chaque membre bénéficiant d'une présentation proportionnelle à son résultat.
 
-Maeda Atsuko
+Les **Selected Members** ouvrent naturellement le volume. Les seize premières disposent des dossiers les plus développés, mêlant portraits en studio, photographies en pied, messages et courtes présentations. Les trois premières — **Oshima Yuko**, **Watanabe Mayu** et **Kashiwagi Yuki** — bénéficient d'une mise en scène particulière qui souligne leur place au sommet de la hiérarchie.
 
-★★★☆☆
+Les **Under Girls**, **Next Girls** et **Future Girls** reprennent la même logique avec une pagination plus resserrée. Chaque membre conserve néanmoins son portrait, son rang, son nombre de voix ainsi qu'un court message adressé aux lecteurs. Cette présentation homogène transforme progressivement le livre en véritable album du classement 2012.
 
-interview de 2 pages
+Au-delà des portraits individuels, plusieurs séries de photographies réunissent les membres par catégorie ou par affinité. Ces pages collectives apportent du rythme à la lecture et témoignent de la volonté de présenter le Sousenkyo comme une aventure commune plutôt qu'une simple compétition entre idols.
 
-Présence documentaire liée à l’élection
+L'ouvrage accorde également une place importante à la dimension documentaire. Les reportages consacrés au scrutin, les entretiens avec les responsables des différents théâtres, l'interview de Maeda Atsuko et les nombreux messages manuscrits permettent de replacer les résultats dans le contexte plus large de l'évolution d'AKB48 en 2012.
 
-Miyawaki Sakura
 
-★★★☆☆
 
-environ 2 pages
+# Direction artistique
 
-Photographies des Next Girls • messages et ensembles
+Dès la couverture, *Mizugi Surprise 2012* affirme une identité visuelle forte. Le rouge domine l'ensemble de la composition, couleur traditionnellement associée à la victoire, à la célébration et à l'énergie. Les seize premières du classement sont réunies devant un fond uniforme qui concentre immédiatement l'attention sur les membres plutôt que sur le décor.
 
-Ichikawa Miori
+L'ouvrage abandonne volontairement toute ambiance balnéaire. Malgré son titre, les séances photographiques ne cherchent presque jamais à évoquer la plage ou les vacances. Les maillots de bain deviennent avant tout des costumes de scène destinés à représenter les différents rangs du Sousenkyo.
 
-★★★☆☆
+Les trois premières bénéficient d'un traitement particulier. Les fonds argentés, les couronnes, les bijoux et les costumes aux finitions métalliques rappellent davantage une cérémonie de remise de prix qu'une séance estivale. La mise en scène souligne leur nouveau statut au sein du groupe sans recourir à une iconographie trop solennelle.
 
-environ 2 pages
+À partir des Under Girls, l'atmosphère évolue progressivement. Les tenues deviennent plus colorées, les accessoires plus variés et les poses plus détendues, tout en conservant une présentation homogène d'une membre à l'autre. Ce choix facilite la comparaison des différents classements et renforce l'impression de parcourir un album officiel du Sousenkyo.
 
-Photographies des Future Girls • ensembles
+L'utilisation régulière des doubles pages participe également à cette mise en scène. Les portraits en très grand format alternent avec des vues en pied, des photographies de groupe et des messages manuscrits, évitant toute monotonie malgré l'importante pagination du volume.
 
-Kawaei Rina
+Enfin, plusieurs détails de mise en page rappellent constamment le contexte de l'élection. Les onglets colorés placés en bord de page permettent de retrouver rapidement chaque catégorie, tandis que les numéros de classement, les résultats et les textes de présentation accompagnent presque systématiquement les portraits. Cette organisation transforme le livre en un document de consultation aussi bien qu'en un recueil photographique.
 
-★☆☆☆☆
+---
 
-pas de dossier classé
+# Ce qui distingue cette édition
 
-Message parmi les Waiting Girls et éventuelles pages collectives
+*Mizugi Surprise 2012* marque une étape importante dans l'évolution de la série. Alors que les premiers volumes étaient principalement centrés sur les membres d'AKB48, cette édition reflète pleinement l'expansion du groupe en intégrant naturellement les représentantes de SKE48, NMB48 et HKT48 au sein d'un classement unique.
 
-Contexte
+L'extension du Sousenkyo à **64 membres** modifie profondément la structure du livre. Chaque catégorie bénéficie désormais de sa propre identité tout en conservant une présentation cohérente, offrant une vision beaucoup plus complète de la scène idol en 2012.
 
-Cette édition est consacrée au quatrièmeSenbatsu Sousenkyo, organisé le 6 juin 2012au Nippon Budokan.
+Cette édition est également publiée dans un contexte particulier. Quelques semaines auparavant, Maeda Atsuko a annoncé sa graduation. Bien qu'elle ne participe plus au classement, sa présence à travers un reportage exclusif rappelle qu'elle demeure une figure centrale d'AKB48 au moment de la publication. Le livre capture ainsi une période de transition où une génération quitte progressivement le devant de la scène tandis qu'une autre s'impose.
 
-L’élection ne désignait plus seulement le senbatsu.Pour la première fois, soixante-quatre places étaientréparties entre quatre formations de seize membres :
+Pour les collectionneurs, cette édition possède enfin un intérêt matériel important. Les suppléments, les posters exclusifs distribués selon les enseignes et les nombreuses variantes promotionnelles expliquent pourquoi deux exemplaires peuvent aujourd'hui présenter des contenus différents malgré une édition identique. Ces éléments font désormais partie intégrante de l'histoire éditoriale du volume.
 
-Selected Members ;
 
-Under Girls ;
+# Réception des lecteurs / Mémoire collective
 
-Next Girls ;
+Parmi les différents volumes de la série *Mizugi Surprise*, l'édition **2012** est surtout restée dans les mémoires comme **le livre du quatrième Senbatsu Sousenkyo**. Les discussions retrouvées sur les blogs japonais, les sites marchands et les forums montrent que beaucoup de lecteurs ne l'achetaient pas uniquement pour ses photographies en maillot de bain, mais comme le prolongement naturel de l'élection.
 
-Future Girls.
+> 「総選挙の後はこれを見なきゃ始まらないです。」
+>
+> *« Après le Sousenkyo, rien ne commence vraiment avant d'avoir regardé ce livre. »*
 
-Cette nouvelle architecture explique directementla construction du mook, qui accorde une séquencephotographique et éditoriale aux quatre catégories.
+Cette idée revient régulièrement. Plusieurs collectionneurs expliquent conserver chaque édition annuelle afin de figer le classement d'une génération d'AKB48. Avec le recul, ces ouvrages sont devenus de véritables repères chronologiques permettant de retrouver l'ambiance propre à chaque Sousenkyo.
 
-Oshima Yuko retrouve la première place avec108 837 voix, devant Watanabe Mayu,deuxième avec 72 574 voix, et Kashiwagi Yuki,troisième avec 71 076 voix.
+> 「毎年買って並べています。」
+>
+> *« Je les achète chaque année et je les aligne dans ma bibliothèque. »*
 
-La deuxième place de Watanabe Mayu constituel’un des résultats majeurs de l’édition.
+L'élargissement du classement à **64 membres** est lui aussi souvent évoqué. De nombreux lecteurs racontent avoir utilisé cette édition pour découvrir les nouvelles venues des groupes sœurs, en particulier SKE48, NMB48 et la toute jeune HKT48. Le livre devient alors un véritable guide illustré permettant d'associer progressivement un visage à un nom.
 
-Elle dépasse pour la première fois Kashiwagi Yukiet se trouve visuellement intégrée au trio placéau sommet de la hiérarchie éditoriale.
+> 「今年も顔と名前が一致しない子を覚えるために購入しました。」
+>
+> *« Cette année encore, je l'ai acheté pour apprendre les noms des filles dont je ne reconnaissais pas encore le visage. »*
 
-Le volume paraît également dans une périodede transition provoquée par l’annonce de lagraduation de Maeda Atsuko.
+Cette fonction documentaire est souvent citée comme l'une des qualités du volume. Là où un simple résultat d'élection ne donne qu'un classement, *Mizugi Surprise* offre un portrait, un message et plusieurs photographies de chacune des membres classées.
 
-Absente de la compétition, l’ancienne centerreste néanmoins présente comme observatricede l’élection dans un entretien spécifique.
+Les bonus font également partie des souvenirs les plus fréquemment évoqués. Le grand poster, la planche d'autocollants et le tapis de souris consacré au **Kami 7** étaient suffisamment recherchés pour influencer le lieu d'achat. Plusieurs blogueurs racontent avoir choisi leur enseigne uniquement pour obtenir le poster exclusif correspondant à leur **oshimen**.
 
-Le classement détermine la formation du27e single d’AKB48, Gingham Check,publié quelques semaines après le mook.
+> 「ローソン版が欲しかった。」
+>
+> *« Je voulais absolument la version Lawson. »*
 
-L’ouvrage se situe ainsi entre l’événement électoralde juin et sa traduction musicale de la fin août.
+Pour les admirateurs de **Watanabe Mayu**, cette édition possède une valeur particulière. Bien avant sa victoire de 2014, beaucoup y voient le moment où elle s'impose définitivement comme l'une des figures centrales du groupe. Les discussions évoquent moins les photographies elles-mêmes que la symbolique de cette deuxième place, perçue comme l'annonce d'un changement de génération.
 
-Sommaire
+> 「まゆゆ、本当にここまで来たね。」
+>
+> *« Mayuyu est vraiment arrivée jusque-là. »*
 
-Le mook ne se limite pas à aligner les membresdans l’ordre du classement.
+À l'inverse, plusieurs lecteurs disent ressentir une certaine nostalgie en feuilletant le volume. L'annonce de la graduation de **Maeda Atsuko** plane sur toute cette période et son entretien rappelle qu'une page importante de l'histoire d'AKB48 est déjà en train de se tourner.
 
-Il combine album photographique, compte rendude l’élection, entretiens et archives du groupe.
+> 「あっちゃんがいない寂しさもあります。」
+>
+> *« Il y a tout de même la tristesse de ne plus avoir Acchan. »*
 
-Ouverture et Selected Members
+Quelques critiques apparaissent également dans les discussions. Certains lecteurs jugent les poses un peu répétitives ou regrettent que les séances photographiques privilégient davantage la mise en scène du classement que des décors plus variés.
 
-Le volume commence par la proclamation symboliquedu nouvel « AKB48 第27期内閣 », assimilant leclassement à la formation d’un nouveau gouvernement.
+> 「内容は、良かったです。」
+>
+> *« Le contenu était bon. »*
 
-Les seize premières disposent du traitementle plus développé.
+Même les avis les plus nuancés reviennent cependant vers la même conclusion : ce volume est avant tout conservé pour ce qu'il représente.
 
-La couverture réunit ce senbatsu dans des tenuesmétallisées individualisées par la couleur.
+Avec le recul, les lecteurs ne semblent pas avoir retenu une séance photo particulière, mais le souvenir d'un moment charnière de l'histoire d'AKB48. En réunissant les portraits des soixante-quatre membres classées, les réactions d'après-scrutin, les nombreux documents d'archives et plusieurs bonus devenus recherchés, *Mizugi Surprise 2012* s'est progressivement imposé comme l'une des archives les plus emblématiques du quatrième Senbatsu Sousenkyo.
 
-Under Girls
 
-Les membres classées de la 17e à la 32e placeforment la seconde grande séquence.
+# Sources documentaires
 
-Leur présentation reste proche de celle du senbatsu,avec une place individuelle encore importante.
+### Exemplaire étudié
 
-Document consacré à l’élection
+- Exemplaire complet photographié par le collectionneur.
+- Couverture, quatrième de couverture, sommaire, pages intérieures et pages de suppléments observés directement.
+- Vérification visuelle des bonus annoncés dans le volume.
 
-Une partie centrale revient sur le scrutin,ses coulisses et les réactions des participantes.
+### Sources bibliographiques
 
-Elle donne au volume sa fonction d’archive,distincte d’un simple recueil de gravure.
+- Notice ISBN (Hanmoto)
+- Shueisha
+- AKB48 Official
+- HKT48 Official
+- SKE48 Official
+- Rakuten Books
+- Amazon Japan
 
-Next Girls et Future Girls
+### Sources communautaires
 
-Les membres classées de la 33e à la 64e placesont regroupées dans deux ensembles de seize.
+- Ameblo
+- FC2 Blog
+- Hatena Blog
+- Livedoor Blog
+- Bookmeter
+- Hello! Online
+- Forums internationaux consacrés aux AKB48
+- Archives de blogs de collectionneurs
 
-La pagination se resserre, mais chaque membreconserve un portrait, son rang, son nombre de voixet un court espace de parole.
+---
 
-Compléments éditoriaux
+# Intérêt pour ma collection
 
-La fin du volume comprend notamment :
+## Ma note
 
-le manga-reportageTKM48 徳さん川柳危機一髪 ;
+**15 / 20**
 
-l’entretien de Maeda Atsuko sur sa journéed’observation du scrutin ;
+**★★★★☆**
 
-les comptes rendus des responsables des théâtresAKB48, SKE48, NMB48 et HKT48 ;
+**Watanabe Mayu** occupe déjà une place centrale avec quatre pages individuelles, plusieurs ensembles et une présence en couverture. Cette deuxième place marque une étape importante de son parcours, deux ans avant sa victoire au Sousenkyo 2014.
 
-les analyses de quatre commentateurs invités ;
+La présence de **Yagami Kumi** apporte également un intérêt supplémentaire pour une collection consacrée aux groupes 48, son départ de SKE48 quelques mois après cette publication donnant aujourd'hui à ses pages une dimension rétrospective particulière.
 
-172 messages manuscrits des Waiting Girls ;
+Enfin, cette édition illustre parfaitement l'évolution de la série *Mizugi Surprise*. L'élargissement du classement à 64 membres, l'intégration des groupes sœurs et les nombreux suppléments en font l'un des volumes les plus représentatifs de la période de plus forte expansion des AKB48.
 
-AKB48 Offshot Paradise 2012 ;
+## Mon ressenti
 
-la présentation des cadeaux et suppléments.
+ma note de 15/20 se justifie par ma presence assez marquée de Mayu et Yagami, les photos de Mayu sont un peu trop sage mais reste sympas, pareil pour Yagami, Yuko présente des photo plus sexy qui corresponde a son image et qui formera un duo assez  vite aprés l'élection avec Mayu autour du gimmick "oshiri sister" portant mayu vers des visuel plus audacieux.
 
-Dossier principal
 
-Le cœur du volume repose sur la transformationdu résultat électoral en hiérarchie visuelle.
 
-Chaque membre n’est pas seulement associéeà un numéro.
 
-Son rang détermine :
 
-l’ordre de lecture ;
 
-la pagination ;
 
-la taille des portraits ;
-
-la présence dans les photographies collectives ;
-
-l’accès aux suppléments.
-
-Oshima Yuko : la reconquête du premier rang
-
-L’ouverture consacrée à Oshima Yuko utilisela couronne, les ailes et le chiffre « 1 »comme signes explicites de victoire.
-
-Sa tenue ivoire et or la distingue des couleursplus franches utilisées pour les autres membres.
-
-Le reportage alterne portraits rapprochés,poses en pied et doubles pages très lumineuses.
-
-L’objectif n’est pas de raconter une scène estivale,mais de construire l’image officielle de la gagnante.
-
-Watanabe Mayu : l’installation dans le Top 2
-
-La séquence de Watanabe Mayu reprend la couronneet le décor de mosaïque argentée réservé auxpremières du classement.
-
-Sa tenue argentée associe bikini, petit gilet,jupe courte et bottes hautes.
-
-La coiffure en couettes maintient une continuitéavec son image idol de l’époque, tandis queles poses en pied et la présentation très épuréerenforcent sa nouvelle stature de numéro deux.
-
-Le titre vertical,
-
-アイドルの手は、あたたかく
-
-place l’accent sur une image de proximitéet de douceur plutôt que sur la rivalité électorale.
-
-Cette double logique est caractéristique du volume :le classement affirme une hiérarchie,mais le portrait individuel cherche à préserverl’identité familière de chaque membre.
-
-Une représentation élargie du groupe
-
-L’édition 2012 documente soixante-quatre classées,contre quarante lors des élections précédentes.
-
-Cette extension donne une visibilité éditorialeà des membres encore peu présentes dansles grands mooks nationaux.
-
-Miyawaki Sakura apparaît ainsi à la 47e place,pour son premier classement au Sousenkyo.
-
-Ichikawa Miori, 58e, est intégrée aux Future Girls,tandis que Yagami Kumi bénéficie d’un dossierd’Under Girl correspondant à sa 28e place.
-
-Les 172 participantes non classées ne disparaissentpas complètement : leurs messages manuscritsforment une archive collective de la campagne.
-
-Style
-
-L’identité visuelle repose sur deux systèmesnettement séparés.
-
-Le senbatsu métallique
-
-Les seize premières portent des costumes de scèneen matières brillantes.
-
-Chaque membre reçoit une couleur distincte :
-
-or pour Oshima Yuko ;
-
-argent pour Watanabe Mayu ;
-
-blanc et tons clairs pour Kashiwagi Yuki ;
-
-couleurs saturées pour les autres membres.
-
-La couverture utilise un fond rouge uniforme,une composition pyramidale et de grands caractèresscintillants.
-
-Elle évoque davantage une proclamation officielleou un spectacle de remise de prix qu’une plage.
-
-Les catégories inférieures en maillots colorés
-
-Les Under, Next et Future Girls sont associéesà des maillots aux bordures multicolores.
-
-Les accessoires reprennent cette palette :
-
-lunettes ;
-
-bijoux en perles ;
-
-bracelets ;
-
-bas rayés ;
-
-manchettes colorées.
-
-Cette continuité donne une unité aux dizainesde portraits tout en permettant d’identifierrapidement les catégories.
-
-Photographie et mise en page
-
-Les portraits utilisent majoritairementdes fonds blancs ou argentés.
-
-La lumière est frontale, douce et très homogène,avec peu d’ombres marquées.
-
-Les doubles pages alternent :
-
-grands portraits détourés ;
-
-vues en pied ;
-
-textes verticaux ;
-
-encadrés d’interview ;
-
-messages manuscrits.
-
-Des onglets rouges et bleus placés sur le bordextérieur indiquent le rang ou la catégorie.
-
-Ce système transforme les 176 pages en cataloguevisuel du scrutin et facilite la consultationpar membre.
-
-La typographie géométrique des noms en alphabetlatin contraste avec les titres japonais verticaux,plus proches de la presse populaire.
-
-Ce qui distingue cette édition
-
-L’édition 2012 correspond au moment où la sérieMizugi Surprise atteint une échelle véritablementpan-groupe.
-
-AKB48, SKE48, NMB48 et HKT48 sont intégrésdans un même classement de soixante-quatre membres.
-
-La communication d’époque annonce égalementque la série avait dépassé le million d’exemplairescumulés, signe de son importance dans l’écosystèmeéditorial du groupe.
-
-Les trois suppléments renforcent son statutd’objet de collection.
-
-Le poster A1 est recto-verso :
-
-seize Selected Members d’un côté ;
-
-le Top 3 de l’autre.
-
-Des posters supplémentaires ont été associésà certaines chaînes de supérettes.
-
-Les combinaisons documentées comprennent notamment :
-
-Lawson : Watanabe Mayu / Matsui Jurina ;
-
-FamilyMart : Kashiwagi Yuki / Itano Tomomi ;
-
-Circle K Sunkus : Sashihara Rino / Kojima Haruna ;
-
-Seven-Eleven : Oshima Yuko / Matsui Rena ;
-
-Ministop : Shinoda Mariko / Takahashi Minami.
-
-Ces variantes ne constituent pas des éditionsdifférentes du livre, mais des avantages de ventequi peuvent expliquer la présence de postersdistincts dans les collections actuelles.
-
-Réception des fans
-
-Les avis japonais encore accessibles conserventune mémoire assez contrastée de la sortie.
-
-Le contenu obtient une appréciation globale positive,mais plusieurs évaluations publiées au momentde la parution concernent surtout les retardsd’expédition des librairies.
-
-Cette confusion entre critique du livreet critique du vendeur rend la note moyennemoins représentative du mook lui-même.
-
-Les discussions portant réellement sur les pagess’attardent souvent sur les choix de maillots,la présence de paréos ou la manière dont certainesmembres sont plus ou moins mises en valeur.
-
-La réaction « 内容は、良かったです »— « le contenu était bon » — résume la tonalitépositive de plusieurs acheteurs malgré les problèmesde livraison.
-
-Avec le recul, l’intérêt mémoriel du volume tientmoins à un cliché isolé qu’à la photographie complètedu groupe au moment précis où Oshima Yuko reprendla première place et où Watanabe Mayu devientsa principale dauphine.
-
-Sources documentaires
-
-Exemplaire photographié par le collectionneur :couverture, doubles pages, sommaire, crédits,suppléments et quatrième de couverture.
-
-HKT48 Official Web Site :notice discographique et contenu officiel.
-
-SKE48 Official Web Site :date de sortie, pagination et suppléments.
-
-AKB48 Official Web Site :règlement et résultats du 27e single Senbatsu Sousenkyo.
-
-Hanmoto.com :notice ISBN, pagination et hauteur.
-
-Rakuten Books :archives commerciales et avis contemporains.
-
-Archives de blogs japonais :posters promotionnels distribués en supérettes.
-
-Intérêt pour ma collection
-
-Appréciation personnelle :
-
-13.5/20 (à compléter par le collectionneur)
-
-★★★☆☆ (à compléter par le collectionneur)
-
-Pourquoi ce volume mérite sa place
-
-Mon ressenti
-
-Peu de mes favorites sont présentes ici ou présente pas d'intérêt visuel, C'est un livre en bikini et Mayu apparait beaucoup en jupe, les phots reste jolies.
