@@ -245,6 +245,29 @@ Avec le recul, les lecteurs ne semblent pas avoir retenu une séance photo parti
 - Forums internationaux consacrés aux AKB48
 - Archives de blogs de collectionneurs
 
+
+
+## Supports associés au shooting
+
+### Weekly Playboy n°34-35 (27 août 2012)
+
+Même séance photographique (« Legend16 in Summer »).
+
+Plusieurs clichés alternatifs de Watanabe Mayu, Oshima Yuko et Kashiwagi Yuki y sont publiés, notamment une grande double page consacrée au Top 3, absente du présent ouvrage.
+
+Les deux publications sont complémentaires.
+
+### Poster Lawson (bonus de précommande)
+
+Poster A2 recto-verso.
+
+- Recto : Watanabe Mayu
+- Verso : Matsui Jurina
+
+Ce bonus exclusif, distribué par Lawson, est distinct du poster fourni avec le mook. Les discussions de collectionneurs montrent qu'il figurait parmi les versions les plus recherchées et que certains acheteurs choisissaient leur enseigne uniquement pour obtenir ce poster. :contentReference[oaicite:0]{index=0}
+
+
+
 ---
 
 # Intérêt pour ma collection
