@@ -286,9 +286,9 @@ Enfin, cette édition illustre parfaitement l'évolution de la série *Mizugi Su
 
 ## Mon ressenti
 
-ma note de 15/20 se justifie par ma presence assez marquée de Mayu et Yagami, les photos de Mayu sont un peu trop sage mais reste sympas, pareil pour Yagami, Yuko présente des photo plus sexy qui corresponde a son image et qui formera un duo assez  vite aprés l'élection avec Mayu autour du gimmick "oshiri sister" portant mayu vers des visuel plus audacieux.
+ma note de 15/20 se justifie par ma presence assez marquée de Mayu et Yagami, les photos de Mayu sont un peu trop sage mais reste sympas, pareil pour Yagami, Yuko présente des photo plus sexy qui corresponde mieux a son image .
 
-
+J'aime beaucoup la séance de Mayu dans son ensemble. En revanche, j'ai toujours eu un peu de mal avec la petite jupe portée par-dessus le bikini, qui lui donne un côté presque "princesse". C'est un choix de stylisme qui me parle moins, alors que le reste de la tenue me plaît beaucoup. À l'inverse, la séance de Yuko assume pleinement son image de gravure, avec des costumes plus épurés qui mettent davantage les photographies en valeur.
 
 
 
