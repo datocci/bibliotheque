@@ -212,23 +212,4 @@ ARTISTES SUIVIES (par ordre de priorité)
 13. Yagami Kumi
 14. Kamei Eri
 
-══════════════════════════════════════
-MÉTHODE DE RECHERCHE
-══════════════════════════════════════
 
-Pour les mooks publiés par Weekly Playboy / Shueisha :
-
-1. Identifier la date exacte de sortie du mook.
-
-2. Rechercher le ou les numéros de Weekly Playboy publiés à la même période.
-
-3. Accorder une attention particulière aux doubles numéros, fréquemment utilisés par l'éditeur pour les grands dossiers et les bonus.
-
-4. Comparer systématiquement :
-
-• couverture ;
-• shootings ;
-• bonus ;
-• posters ;
-• produits promotionnels ;
-• variantes des photographies.
