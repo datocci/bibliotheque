@@ -1,4 +1,4 @@
-    # AKB48 General Election! Mizugi Surprise Announcement 2010
+           # AKB48 General Election! Mizugi Surprise Announcement 2010
 
 ## AKB48総選挙！水着サプライズ発表2010
 
@@ -209,361 +209,109 @@ Ce succès établit le modèle économique de la série : un mook abordable, li�
 
 ---
 
-# RÉCEPTION DES LECTEURS / MÉMOIRE COLLECTIVE
+# Réception des lecteurs / Mémoire collective
 
-À sa sortie en août 2011, **AKB48総選挙！水着サプライズ発表2011** est
-présenté comme le livre officiel consacré à la troisième élection
-générale d'AKB48. Pourtant, les discussions retrouvées montrent qu'il
-laisse un souvenir bien différent de celui d'un simple mook de gravure.
-Les lecteurs parlent avant tout d'un ouvrage qui leur permet de revivre
-la Sousenkyo, de retrouver leurs membres préférées et de conserver une
-image d'une période aujourd'hui devenue emblématique.
+À sa sortie, *AKB48総選挙！水着サプライズ発表2010* fut reçu comme bien davantage qu’un simple photobook de maillots. Son classement, ses portraits et ses pages consacrées à l’élection en faisaient un instantané très lisible d’AKB48 en 2010. Pour les nouveaux admirateurs, le volume servait presque d’annuaire : une lectrice expliquait qu’il l’avait aidée à associer les noms et les visages, tout en lui faisant découvrir les coulisses du scrutin. D’autres acheteurs appréciaient de comparer cette édition à celle de 2009 et de suivre les changements de statut des membres.
 
-## « Je ne m'attendais pas à recevoir un livre pareil »
+Le sentiment de générosité revenait souvent. Pour un prix proche de celui d’un mook, les lecteurs avaient l’impression d’obtenir un véritable photobook, accompagné d’un grand poster, de messages manuscrits et d’autocollants. Une acheteuse mettait particulièrement en avant l’abondance des photographies, les images de coulisses et les suppléments ; certains parlaient déjà d’un ouvrage à conserver, tandis que d’autres l’achetaient rétroactivement après avoir découvert une édition plus récente.
 
-Le premier souvenir est presque toujours le même.
+Le poster lui-même nourrissait les recommandations entre fans. En décembre 2010, à une personne citant notamment Mayuyu parmi ses membres préférées, un répondant conseillait :
 
-Avant même d'évoquer les photographies, les lecteurs racontent leur
-surprise en découvrant le volume.
+> 「『水着サプライズ発表 2010』という本には特大ポスターが付いてきますよ！！」
 
-> 「1000円だと思えばすごくよくできています。」
->
-> « Pour 1 000 yens, c'est vraiment très bien réalisé. »
+> « Le livre *Mizugi Surprise Happyō 2010* contient un poster géant ! »
 
-Un autre acheteur résume son étonnement avec humour.
+Cette recommandation ne prouve pas que le volume était acheté spécialement pour Mayu, mais elle montre comment il circulait alors : comme un ouvrage de base, immédiatement associé à ses membres favorites et à ses suppléments.
 
-> 「なんなんでしょう？このボリュームで1,000円って！」
->
-> « Comment est-ce possible ? Un tel volume pour seulement 1 000 yens !
-> »
+Malgré son concept, plusieurs lectrices décrivaient un résultat davantage « mignon » que réellement sexy. L’une aurait même préféré voir aussi les membres en vêtements ordinaires. Une mère, d’abord surprise par le principe, retenait finalement une atmosphère fraîche. D’autres lecteurs appréciaient le classement, les documents électoraux et la présentation des membres tout en estimant que le maillot n’était pas indispensable pour toutes.
 
-Le poids du livre devient lui aussi un sujet de conversation.
+La critique la plus développée portait sur la direction photographique. Le rédacteur de **墨田ペトリ堂の身辺雜記** reprochait aux costumes leur surcharge :
 
-> 「この本まじで重いです！重量の話です。」
->
-> « Ce livre est vraiment lourd ! Je parle bien de son poids. »
+> 「水着には例によってゴテゴテと装飾が付き、アクセサリーもテンコ盛り。」
 
-En quelques jours seulement, le mook acquiert la réputation d'un ouvrage
-particulièrement généreux. Les 128 pages, le poster et les nombreuses
-cartes donnent aux acheteurs l'impression d'avoir acheté bien plus qu'un
-simple magazine.
+> « Comme toujours, les maillots sont couverts de décorations surchargées et les accessoires sont empilés en abondance. »
 
-## Revivre la troisième Sousenkyo
+Il parlait aussi de :
 
-Une fois la surprise passée, les discussions changent naturellement de
-sujet.
+> 「流れ作業で撮られた写真」
 
-Les lecteurs parlent moins du livre que des souvenirs qu'il fait
-ressurgir.
+> « Des photographies prises dans un processus de travail à la chaîne. »
 
-> 「総選挙・・・思い出します・・・」
->
-> « L'élection... cela me rappelle des souvenirs... »
+Son jugement n’était pourtant pas entièrement négatif :
 
-Les interviews réalisées juste après le classement sont souvent citées
-parmi les passages les plus appréciés. Plusieurs blogueurs expliquent
-avoir aimé retrouver les réactions des membres alors que l'émotion de la
-soirée est encore visible.
+> 「しかしまぁ、良くこれだけの種類の個性と体形に合わせた水着を集めたものだ。これだけは賞賛に値する。」
 
-Le livre sert également à découvrir ou redécouvrir les participantes.
+> « Il faut tout de même reconnaître qu’ils ont réussi à réunir autant de maillots adaptés à des personnalités et à des morphologies si différentes. Cela au moins mérite des éloges. »
 
-> 「AKBが良く分かる。」
->
-> « Cela permet de mieux connaître AKB. »
+Le même lecteur critiquait surtout une hiérarchie rendue visible par le nombre de pages, les accessoires et la complexité des tenues :
 
-Plusieurs lecteurs racontent qu'ils connaissaient déjà les membres les
-plus populaires, mais que ce volume leur avait permis d'identifier plus
-facilement les Under Girls ou certaines représentantes de SKE48 et
-NMB48.
+> 「冠位十二階式に水着や装飾品によって差が付けられている」
 
-Les discussions montrent ainsi que le mook est rapidement devenu autant
-un souvenir de la Sousenkyo qu'un ouvrage de référence sur les membres
-de cette génération.
+> « Une différence de rang est établie par les maillots et les ornements, à la manière de l’ancien système des douze rangs de cour. »
 
-## Des costumes qui ont davantage marqué les lecteurs que les maillots
+Pour **Maeda Atsuko**, la trace individuelle la plus nette est aussi la plus simple. Une acheteuse écrivait en 2012 :
 
-Malgré son titre, le mook n'est presque jamais résumé par ses séances en
-maillot de bain.
+> 「あっちゃんが良くて、買いました。あっちゃん最高。」
 
-Les discussions reviennent beaucoup plus souvent sur les costumes, les
-couleurs et le soin apporté à chaque membre.
+> « J’ai acheté le livre parce qu’Acchan me plaisait. Acchan est formidable. »
 
-Une remarque retrouvée à plusieurs reprises résume bien cette
-impression.
+Le volume valait ici d’abord par la présence de l’artiste, indépendamment de toute appréciation générale sur l’édition.
 
-> 「水着と言うよりは、コスプレっぽい水着で、可愛いらしかったです。」
->
-> « Plus que de simples maillots de bain, cela ressemblait à des
-> costumes de cosplay, et c'était vraiment mignon. »
+La mémoire laissée par **Watanabe Mayu** est plus fragmentaire. Ses quatre pages et sa tenue orange furent largement diffusées, mais aucun commentaire conservé ne juge directement sa pose ou ses photographies. Un blog de fan republia pourtant les scans en mai 2011 :
 
-Les critiques publiées sur BookMeter insistent elles aussi sur cette
-personnalisation.
+> 「AKB４８総選挙水着サプライズ発表2010の画像を載せます」
 
-> 「水着のデザインがいちいち一人一人凝っていて可愛い。」
->
-> « Le design de chaque maillot est travaillé individuellement, et ils
-> sont vraiment mignons. »
+> « Je vais publier des images de *AKB48 Sōsenkyo Mizugi Surprise Happyō 2010*. »
 
-Les lecteurs remarquent que chaque tenue semble prolonger la
-personnalité de la membre photographiée. Les accessoires, les couleurs
-et les rubans donnent à l'ensemble une identité très différente d'une
-simple séance de gravure.
+Puis lançait :
 
-Les réactions étrangères vont dans le même sens.
+> 「コメントお願いします！（。・ω・。）」
 
-> "Some of the costumes are a little odd, but I'm quite happy seeing
-> bright colours on different members."
+> « Laissez des commentaires, s’il vous plaît ! »
 
-Même lorsqu'ils trouvent certains costumes un peu extravagants, les
-lecteurs apprécient justement cette diversité. Le mot **かわいい**
-revient d'ailleurs bien plus souvent que les commentaires sur le
-caractère sexy des photographies.
+Les réponses ont disparu, mais cette invitation atteste que ses images étaient bien proposées à la discussion.
 
-## Les bonus prolongent le plaisir de la découverte
+Une autre réaction, antérieure à la parution du mook, concerne sa déclaration après l’élection :
 
-Le poster et les nombreuses cartes font partie des premiers éléments que
-plusieurs acheteurs racontent avoir examinés.
+> 「悔しいです。この現状では満足していません。次は絶対に私の革命を起こします」
 
-Pour beaucoup, ils participent pleinement au sentiment d'avoir reçu un
-ouvrage particulièrement riche.
+> « Je suis frustrée. Je ne suis pas satisfaite de la situation actuelle. La prochaine fois, je provoquerai absolument ma révolution. »
 
-Un commentaire publié sur une communauté taïwanaise résume cet
-enthousiasme.
+Un blogueur réagit :
 
-> 「這次的特典真是太優了！！」
->
-> « Les bonus de cette édition sont vraiment excellents !! »
+> 「まゆゆとえれぴょんからこんな言葉が聞けるとは・・・逞しいわぁ」
 
-Quelques lecteurs auraient souhaité des cartes imprimées sur un papier
-plus épais, tandis que d'autres expliquent avoir préféré les conserver
-intactes plutôt que de les détacher. Dans les deux cas, les bonus sont
-déjà considérés comme des objets de collection plutôt que comme de
-simples suppléments.
+> « Je ne pensais pas entendre de telles paroles de la part de Mayuyu et d’Erepyon… Elles sont devenues combatives. »
 
-## Le classement ne s'arrête pas aux résultats
+Cette voix éclaire la perception de Mayu au moment de l’élection, mais ne doit pas être prise pour un commentaire sur ses photographies du livre.
 
-En avançant dans le livre, beaucoup découvrent que la hiérarchie de la
-Sousenkyo influence également le nombre de pages accordées à chaque
-membre.
+Pour **Yagami Kumi**, aucune appréciation individuelle de sa pose ou de son expression n’a été conservée. Sa réception apparaît à travers le traitement collectif des dernières Under Girls :
 
-Cette organisation est généralement comprise, mais elle suscite aussi
-plusieurs regrets.
+> 「23位から39位迄の、所謂『アンダーガールズ』はシンプルな白い水着で1ページ1カット。」
 
-> 「下位のメンバーをもっとピックアップしてほしかったです。」
->
-> « J'aurais aimé que les membres moins bien classées soient davantage
-> mises en avant. »
+> « Les membres dites “Under Girls”, de la 23e à la 39e place, sont présentées en maillot blanc simple, à raison d’une page et d’un cliché chacune. »
 
-Les discussions montrent que de nombreux lecteurs ouvrent d'abord le
-livre aux pages de leur **oshimen**. La satisfaction dépend donc souvent
-de la place occupée par leur favorite.
+Le même auteur ajoutait :
 
-Une question posée sur Yahoo!知恵袋 le jour même de la sortie illustre
-parfaitement cet état d'esprit. Avant d'acheter le volume, un fan
-demande simplement si **Kitahara Rie** y apparaît bien. Une fois
-rassuré, il répond qu'il ira immédiatement se le procurer.
+> 「下位になり、撮影の流れ作業の度合いが高くなればなるほど、撮られる側の意識の高低、撮られ方の巧拙がはっきり出る。」
 
-Le mook est ainsi lu de deux façons à la fois : comme un livre consacré
-à toute la Sousenkyo, mais aussi comme un album personnel où chacun
-cherche d'abord la membre qui lui est chère.
+> « Plus on descend dans le classement et plus la séance semble effectuée à la chaîne ; les différences d’implication des modèles et leur capacité à se laisser photographier deviennent alors clairement visibles. »
 
-## Maeda Atsuko : la victoire devenue un souvenir
+Ces remarques concernent son groupe, non Kumi seule. Elles conservent néanmoins la perception contemporaine de la place réduite qui lui était accordée : une page, un cliché, un maillot blanc simple.
 
-La hiérarchie du livre place naturellement **Maeda Atsuko** au premier
-plan. Sa victoire lors de la troisième Sousenkyo lui vaut la
-présentation la plus développée, ce que plusieurs lecteurs remarquent
-immédiatement.
+Avec le temps, le mook changea de signification. Dès 2011, des lecteurs l’utilisaient pour mesurer les transformations du groupe ; en 2013, l’un d’eux écrivait :
 
-Au moment de la sortie, cette place privilégiée paraît aller de soi. Les
-discussions parlent surtout de la gagnante de l'élection et plusieurs
-acheteurs prennent même le temps de comparer le nombre de pages
-accordées aux différentes membres.
+> 「懐かしいメンバーも居ますが、基本的には満足です。」
 
-Quelques mois plus tard, le regard change.
+> « Certaines membres éveillent déjà la nostalgie, mais dans l’ensemble je suis satisfait. »
 
-Après l'annonce de son départ d'AKB48, certains lecteurs reviennent vers
-ce volume avec une émotion nouvelle.
+Ce qui avait été acheté pour les maillots, une favorite ou le poster devenait déjà l’archive d’une composition d’AKB48 disparue. Un participant aux **AKB48 Awards 2010** résumait son attachement en une ligne :
 
-> 「大好きなあっちゃんの引退宣言に思わず、購入してしまいました。」
->
-> « Après l'annonce du départ d'Acchan, que j'adore, je n'ai pas pu
-> m'empêcher de l'acheter. »
+> “Best photobook: Mizugi Surprise 2010.”
 
-Le livre cesse alors d'être uniquement celui de la troisième Sousenkyo.
+> « Meilleur photobook : Mizugi Surprise 2010. »
 
-Pour une partie des fans, il devient aussi l'un des derniers grands
-souvenirs d'Acchan au sommet du groupe.
-
-Cette évolution se retrouve jusque dans les annonces d'occasion, où sa
-présence en couverture ou son statut de gagnante sont régulièrement mis
-en avant.
-
-## Watanabe Mayu : retrouver la Mayuyu que les lecteurs attendaient
-
-Les réactions consacrées à **Watanabe Mayu** prennent une direction
-différente.
-
-Les commentaires parlent finalement assez peu de son classement. Ils
-s'intéressent surtout à l'image qu'elle renvoie.
-
-Le billet le plus souvent retrouvé s'ouvre sur une remarque très simple.
-
-> 「まゆゆはね～いっつもかわいいですね。」
->
-> « Mayuyu est vraiment toujours mignonne. »
-
-Les lecteurs ne donnent pas l'impression de découvrir une nouvelle
-facette de Mayu. Ils retrouvent au contraire celle qu'ils connaissent
-déjà, avec son sourire et son image profondément **かわいい**.
-
-Le même billet ajoute :
-
-> 「麻友も成長しましたね～」
->
-> « Mayu a grandi, elle aussi. »
-
-Cette remarque apparaît également dans des billets consacrés au **Mizugi
-Surprise 2012**. Elle semble donc décrire davantage le regard porté sur
-l'évolution de Mayu à cette période qu'un souvenir propre à cette seule
-édition.
-
-Plusieurs blogueurs racontent aussi avoir ouvert le livre directement à
-ses pages avant de revenir au début du volume. Ce détail revient
-suffisamment souvent pour montrer que beaucoup de collectionneurs
-découvrent d'abord le mook à travers leur **oshimen**.
-
-Les commentaires consacrés à Mayu parlent finalement moins des poses ou
-des maillots que du plaisir de retrouver une artiste immédiatement
-reconnaissable.
-
-Ils donnent l'impression de feuilleter un nouveau chapitre d'une
-histoire déjà commencée plutôt que de découvrir une séance
-photographique isolée.
-
-## Yagami Kumi : une présence discrète qui reflète la place des membres les moins classées
-
-La réception de **Yagami Kumi** est sensiblement différente.
-
-Les recherches menées sur les blogs, les forums et les communautés
-consacrées à SKE48 font bien apparaître son nom, mais très rarement à
-propos de ses pages dans **AKB48総選挙！水着サプライズ発表2011**.
-
-La plupart des discussions retrouvées concernent :
-
--   d'autres magazines ;
--   des galeries de scans ;
--   sa carrière au sein de SKE48 ;
--   ou les photographies non retouchées qui circuleront quelque temps
-    plus tard.
-
-Les commentaires directement consacrés à cette édition restent donc peu
-nombreux.
-
-Cette discrétion fait écho à un regret déjà exprimé par plusieurs
-lecteurs.
-
-> 「下位のメンバーをもっとピックアップしてほしかったです。」
->
-> « J'aurais aimé que les membres moins bien classées soient davantage
-> mises en avant. »
-
-Classée 38e, Yagami fait partie des membres les plus touchées par cette
-organisation éditoriale. Les discussions ne critiquent pas ses
-photographies ; elles regrettent surtout qu'elles soient si peu
-nombreuses.
-
-Ce silence autour de ses pages raconte finalement quelque chose du livre
-lui-même : la hiérarchie de la Sousenkyo influence aussi la mémoire
-laissée par les différentes membres.
-
-## Une même publication, des souvenirs parfois différents
-
-Les discussions japonaises et étrangères ne mettent pas toujours
-l'accent sur les mêmes aspects du livre.
-
-Au Japon, les lecteurs évoquent volontiers le volume, le prix, les bonus
-ou les interviews.
-
-Sur les forums étrangers, les premières réactions portent plus souvent
-sur les photographies elles-mêmes.
-
-Sur JPHiP, les membres comparent leurs costumes favoris, leurs pages
-préférées ou les couleurs attribuées aux différentes participantes.
-
-> "Some of the costumes are a little odd, but I'm quite happy seeing
-> bright colours on different members."
-
-Sur Hello! Online, les réactions sont souvent très courtes.
-
-> "Cute."
-
-> "Love this one."
-
-> "Best picture so far."
-
-Ces messages paraissent anodins, mais leur accumulation montre que les
-lecteurs commentaient les scans presque au moment de leur publication,
-échangeant spontanément leurs coups de cœur.
-
-Les communautés chinoises et taïwanaises insistent davantage sur les
-bonus.
-
-> 「這次的特典真是太優了！！」
->
-> « Les bonus de cette édition sont vraiment excellents !! »
-
-Malgré ces différences de ton, les souvenirs convergent progressivement.
-
-Les lecteurs retiennent tous un ouvrage particulièrement généreux, des
-costumes immédiatement reconnaissables et une publication qui prolonge
-le plaisir de la troisième Sousenkyo.
-
-## Ce que les lecteurs ont finalement retenu
-
-En parcourant les discussions laissées à la sortie du livre puis celles
-rédigées plusieurs années plus tard, une impression domine.
-
-Les lecteurs parlent rarement du **Mizugi Surprise 2011** comme d'un
-simple magazine de maillots de bain.
-
-Ils se souviennent d'abord d'un livre qui les avait surpris par son
-ampleur.
-
-> 「なんなんでしょう？このボリュームで1,000円って！」
-
-Ils se rappellent un objet suffisamment imposant pour que son poids
-devienne un sujet de plaisanterie.
-
-> 「この本まじで重いです！重量の話です。」
-
-Ils gardent aussi le souvenir d'un ouvrage qui leur permettait de
-revivre la troisième Sousenkyo.
-
-> 「総選挙・・・思い出します・・・」
-
-Ils évoquent des costumes immédiatement reconnaissables.
-
-> 「水着と言うよりは、コスプレっぽい水着で、可愛いらしかったです。」
-
-Et beaucoup racontent finalement la même habitude : ouvrir le livre
-directement aux pages de leur **oshimen**, avant seulement de découvrir
-le reste.
-
-Ces souvenirs, pris séparément, paraissent modestes.
-
-Réunis, ils dessinent pourtant une mémoire collective très cohérente.
-
-Le **Mizugi Surprise 2011** n'est pas resté dans les mémoires parce
-qu'il proposait de nouvelles séances de gravure.
-
-Il est resté parce qu'il rassemblait, dans un même volume, les visages,
-les émotions et les résultats d'une Sousenkyo que beaucoup de fans
-considèrent encore aujourd'hui comme l'une des plus marquantes.
-
-C'est sans doute ce qui explique que, bien des années après sa sortie,
-les collectionneurs continuent moins à parler des photographies qu'à
-raconter le plaisir qu'ils ont eu à retrouver cette période d'AKB48 en
-ouvrant à nouveau ce livre.
+Le souvenir du volume tient ainsi à cette tension : objet généreux et accessible, annuaire du groupe, archive électorale, mais aussi mise en scène très visible de sa hiérarchie.
 
 ---
 
@@ -635,5 +383,7 @@ Oshima Yuko possède les pages les plus marquantes du volume. Sa tenue rouge, sa
 Maeda Atsuko reste bien mise en valeur malgré sa deuxième place. Son intérêt vient surtout du contraste avec Oshima et de la manière dont le livre transforme leur rivalité en axe visuel.
 
 Les bonus et les photographies collectives complètent bien l'ensemble. Le volume mérite surtout sa place comme archive de *Heavy Rotation* et du deuxième Sousenkyo plutôt que comme photobook individuel exceptionnel.
+
+    
 
     
