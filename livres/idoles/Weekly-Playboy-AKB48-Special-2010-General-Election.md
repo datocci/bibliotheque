@@ -22,7 +22,7 @@ Shueisha • 2010
 ![Photo 9](../../images/AKB48-Mizugi-Surprise-2010-8.jpg)
 ![Photo 10](../../images/AKB48-Mizugi-Surprise-2010-9.jpg)
 ![Photo 11](../../images/AKB48-Mizugi-Surprise-2010-10.jpg)
-![Photo 12](../../images/AKB48-Mizugi-Surprise-2010-11.jpg)
+
 
 ---
 
