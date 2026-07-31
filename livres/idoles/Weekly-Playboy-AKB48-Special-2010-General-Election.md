@@ -362,7 +362,7 @@ Une dernière passe ciblée a couvert les familles de sources recommandées enco
 
 ### Pourquoi ce volume mérite sa place
 
-Première victoire d'Oshima Yuko, la deuxième place de Maeda Atsuko? la cinquième place de Mayu Watanabe et le line-up exact de *Heavy Rotation* dans une forme visuelle immédiatement lisible.
+Première victoire d'Oshima Yuko, la deuxième place de Maeda Atsuko, la cinquième place de Mayu Watanabe et le line-up exact de *Heavy Rotation* dans une forme visuelle immédiatement lisible.
 
 La présence de **Watanabe Mayu** est importante, en costume orange et  traitement très « idol ». 
 
