@@ -8,7 +8,7 @@ Hello! Project Hawaiian Style • 2007
 
 ---
 
-![Première de couverture](../../images/Tanaka-Reina-Alo-Hello!-1.webp)
+![Première de couverture](../../../../images/Tanaka-Reina-Alo-Hello!-1.webp)
 
 ![Tanaka Reina — portrait en maillot orange et jaune](../../../../images/Tanaka-Reina-Alo-Hello!-5.jpg)
 
