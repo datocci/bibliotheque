@@ -6,7 +6,7 @@ Official First Solo Tour Pamphlet
 
 Hello! Project • 2003
 
-Aperçu
+
 
 ![Photo 1](../../../../images/Fujimoto-Miki-FIRST-LIVE-TOUR-2003-SPRING-~MIKI-①~-1.webp)
 ![Photo 2](../../../../images/Fujimoto-Miki-FIRST-LIVE-TOUR-2003-SPRING-~MIKI-①~-2.webp)
