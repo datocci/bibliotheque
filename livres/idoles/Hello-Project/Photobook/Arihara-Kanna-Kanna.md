@@ -8,13 +8,13 @@ Shinyusha • 2010
 
 ## Aperçu
 
-![Couverture](../../images/Kanna.jpg)
+![Couverture](../../../../images/Kanna.jpg)
 
-![Photo 1](../../images/Kanna-1.jpg)
+![Photo 1](../../../../images/Kanna-1.jpg)
 
-![Photo 1](../../images/Kanna-3.jpg)
+![Photo 1](../../../../images/Kanna-3.jpg)
 
-![Photo 2](../../images/Kanna-2.jpg)
+![Photo 2](../../../../images/Kanna-2.jpg)
 
 
 ## Informations
