@@ -5,19 +5,19 @@ Wanibooks Co. Ltd. (2003)
 
 ## Photo 1
 
-![Photo 1](../../images/Alo-Hello!-Ai-Takahashi.jpg)
+![Photo 1](../../../../images/Alo-Hello!-Ai-Takahashi.jpg)
 
 ## Photo 2
 
-![Photo 2](../../images/Alo-Hello!-Ai-Takahashi-1.jpg)
+![Photo 2](../../../../images/Alo-Hello!-Ai-Takahashi-1.jpg)
 
 ## Photo 3
 
-![Photo 3](../../images/Alo-Hello!-Ai-Takahashi-2.jpg)
+![Photo 3](../../../../images/Alo-Hello!-Ai-Takahashi-2.jpg)
 
 ## Photo 4
 
-![Photo 3](../../images//Alo-Hello!-Ai-Takahashi-3.jpg)
+![Photo 3](../../../../images//Alo-Hello!-Ai-Takahashi-3.jpg)
 
 
 
