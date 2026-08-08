@@ -1,6 +1,3 @@
-Fujimoto-Miki-FIRST-LIVE-TOUR-2003-SPRING-MIKI1-version-courte.md
-
-
 Fujimoto Miki FIRST LIVE TOUR 2003 SPRING ～MIKI①～
 藤本美貴 FIRST LIVE TOUR 2003 SPRING ～MIKI①～
 Fujimoto Miki
