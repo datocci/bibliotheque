@@ -8,15 +8,15 @@ Wani Books • 2004
 
 ## Aperçu
 
-![Couverture](../../images/Wataame.jpg)
+![Couverture](../../../../images/Wataame.jpg)
 
-![Photo 1](../../images/Wataame-1.jpg)
+![Photo 1](../../../../images/Wataame-1.jpg)
 
-![Photo 2](../../images/Wataame-2.jpg)
+![Photo 2](../../../../images/Wataame-2.jpg)
 
-![Photo 3](../../images/Wataame-3.jpg)
+![Photo 3](../../../../images/Wataame-3.jpg)
 
-![Photo 4](../../images/Wataame-4.jpg)
+![Photo 4](../../../../images/Wataame-4.jpg)
 
 ## Informations
 
