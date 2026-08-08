@@ -8,17 +8,17 @@ Shueisha • 2011
 
 ## Aperçu
 
-![Couverture](../../../images/Mayuyu.jpg)
+![Couverture](../../../../images/Mayuyu.jpg)
 
-![Photo 1](../../../images/Mayuyu-1.jpg)
+![Photo 1](../../../../images/Mayuyu-1.jpg)
 
-![Photo 2](../../../images/Mayuyu-2.jpg)
+![Photo 2](../../../../images/Mayuyu-2.jpg)
 
-![Photo 3](../../../images/Mayuyu-3.jpg)
+![Photo 3](../../../../images/Mayuyu-3.jpg)
 
-![Photo 4](../../../images/Mayuyu-4.jpg)
+![Photo 4](../../../../images/Mayuyu-4.jpg)
 
-![Photo 4](../../../images/Mayuyu-5.jpg)
+![Photo 4](../../../../images/Mayuyu-5.jpg)
 
 ## Informations
 
