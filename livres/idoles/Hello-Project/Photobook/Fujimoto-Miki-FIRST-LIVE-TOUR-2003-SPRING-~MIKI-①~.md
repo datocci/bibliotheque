@@ -89,12 +89,6 @@ Cette autonomie photographique lui permet de conserver un intérêt au-delà du 
 
 Le ① suggère un commencement ; l'évolution immédiate de sa carrière en a finalement fait le témoignage d'une période beaucoup plus brève et singulière.
 
-Intérêt pour ma collection
-Appréciation personnelle :
-
-16,5/20
-
-★★★★☆
 
 Pourquoi ce volume mérite sa place
 FIRST LIVE TOUR 2003 SPRING ～MIKI①～ documente un moment très précis de la carrière de Fujimoto Miki : l'apogée de sa première période solo, avec sa première tournée, son premier album et un univers graphique entièrement construit autour d'elle.
