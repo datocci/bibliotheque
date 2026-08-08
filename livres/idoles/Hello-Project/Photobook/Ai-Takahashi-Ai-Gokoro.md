@@ -8,15 +8,15 @@ Wani Books • 2005
 
 ## Aperçu
 
-![Couverture](../../images/Ai-Gokoro.jpg)
+![Couverture](../../../../images/Ai-Gokoro.jpg)
 
-![Photo 1](../../images/Ai-Gokoro-1.jpg)
+![Photo 1](../../../../images/Ai-Gokoro-1.jpg)
 
-![Photo 2](../../images/Ai-Gokoro-2.jpg)
+![Photo 2](../../../../images/Ai-Gokoro-2.jpg)
 
-![Photo 3](../../images/Ai-Gokoro-3.jpg)
+![Photo 3](../../../../images/Ai-Gokoro-3.jpg)
 
-![Photo 4](../../images/Ai-Gokoro-4.jpg)
+![Photo 4](../../../../images/Ai-Gokoro-4.jpg)
 
 ## Informations
 
