@@ -12,21 +12,21 @@ Up-Front Books / Wani Books • 2013
 
 ## Aperçu
 
-![Première de couverture](../../images/Nakajima-Saki-Nakasan-1.jpg)
+![Première de couverture](../../../../images/Nakajima-Saki-Nakasan-1.jpg)
 
-![Nakajima Saki — pose joueuse en pull rose](../../images/Nakajima-Saki-Nakasan-2.jpg)
+![Nakajima Saki — pose joueuse en pull rose](../../../../images/Nakajima-Saki-Nakasan-2.jpg)
 
-![Nakajima Saki — bikini noir au bord de l’eau](../../images/Nakajima-Saki-Nakasan-3.jpg)
+![Nakajima Saki — bikini noir au bord de l’eau](../../../../images/Nakajima-Saki-Nakasan-3.jpg)
 
-![Nakajima Saki — portrait allongé en bikini noir](../../images/Nakajima-Saki-Nakasan-4.jpg)
+![Nakajima Saki — portrait allongé en bikini noir](../../../../images/Nakajima-Saki-Nakasan-4.jpg)
 
-![Nakajima Saki — portrait en pull rose près de la baie vitrée](../../images/Nakajima-Saki-Nakasan-5.jpg)
+![Nakajima Saki — portrait en pull rose près de la baie vitrée](../../../../images/Nakajima-Saki-Nakasan-5.jpg)
 
-![Nakajima Saki — séance de bowling](../../images/Nakajima-Saki-Nakasan-6.jpg)
+![Nakajima Saki — séance de bowling](../../../../images/Nakajima-Saki-Nakasan-6.jpg)
 
-![Nakajima Saki — assise au bord de la piscine en bikini rose](../../images/Nakajima-Saki-Nakasan-7.jpg)
+![Nakajima Saki — assise au bord de la piscine en bikini rose](../../../../images/Nakajima-Saki-Nakasan-7.jpg)
 
-![Quatrième de couverture](../../images/Nakajima-Saki-Nakasan-8.jpg)
+![Quatrième de couverture](../../../../images/Nakajima-Saki-Nakasan-8.jpg)
 
 ---
 
