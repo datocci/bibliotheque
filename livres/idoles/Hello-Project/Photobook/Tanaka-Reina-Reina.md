@@ -10,17 +10,17 @@ Photobook solo • Wani Books • 2005
 
 ## Aperçu
 
-![Première de couverture](../../images/Tanaka-Reina-Reina-1.jpg)
+![Première de couverture](../../../../images/Tanaka-Reina-Reina-1.jpg)
 
-![Tanaka Reina — portrait pop sur fond graphique](../../images/Tanaka-Reina-Reina-6.jpg)
+![Tanaka Reina — portrait pop sur fond graphique](../../../../images/Tanaka-Reina-Reina-6.jpg)
 
-![Tanaka Reina — séquence extérieure en maillot](../../images/Tanaka-Reina-Reina-5.jpg)
+![Tanaka Reina — séquence extérieure en maillot](../../../../images/Tanaka-Reina-Reina-5.jpg)
 
-![Tanaka Reina — portrait en tenue rose](../../images/Tanaka-Reina-Reina-4.jpg)
+![Tanaka Reina — portrait en tenue rose](../../../../images/Tanaka-Reina-Reina-4.jpg)
 
-![Tanaka Reina — séquence studio avec ordinateur portable](../../images/Tanaka-Reina-Reina-3.jpg)
+![Tanaka Reina — séquence studio avec ordinateur portable](../../../../images/Tanaka-Reina-Reina-3.jpg)
 
-![Quatrième de couverture](../../images/Tanaka-Reina-Reina-2.jpg)
+![Quatrième de couverture](../../../../images/Tanaka-Reina-Reina-2.jpg)
 
 ---
 
