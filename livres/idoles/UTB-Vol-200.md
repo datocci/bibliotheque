@@ -11,21 +11,21 @@ Wani Books • 2010
 
 ## Aperçu
 
-![Première de couverture](../../../../images/UTB-Vol-200.jpg)
+![Première de couverture](../../images/UTB-Vol-200.jpg)
 
-![Suzuki Airi et Watanabe Mayu — Angel Versus Angel, portrait au microphone](../../../../images/UTB-Vol-200-4.jpg)
+![Suzuki Airi et Watanabe Mayu — Angel Versus Angel, portrait au microphone](../../images/UTB-Vol-200-4.jpg)
 
-![Suzuki Airi et Watanabe Mayu — Angel Versus Angel, pose en pied au microphone](../../../../images/UTB-Vol-200-5.jpg)
+![Suzuki Airi et Watanabe Mayu — Angel Versus Angel, pose en pied au microphone](../../images/UTB-Vol-200-5.jpg)
 
-![Watanabe Mayu — portrait en tenue d’intérieur pastel](../../../../images/UTB-Vol-200-7.jpg)
+![Watanabe Mayu — portrait en tenue d’intérieur pastel](../../images/UTB-Vol-200-7.jpg)
 
-![Suzuki Airi et Watanabe Mayu — allongées côte à côte en tenues pastel](../../../../images/UTB-Vol-200-9.jpg)
+![Suzuki Airi et Watanabe Mayu — allongées côte à côte en tenues pastel](../../images/UTB-Vol-200-9.jpg)
 
-![Suzuki Airi et Watanabe Mayu — robes blanches, main dans la main en extérieur](../../../../images/UTB-Vol-200-10.jpg)
+![Suzuki Airi et Watanabe Mayu — robes blanches, main dans la main en extérieur](../../images/UTB-Vol-200-10.jpg)
 
-![Suzuki Airi et Watanabe Mayu — portrait rapproché en robes blanches](../../../../images/UTB-Vol-200-11.jpg)
+![Suzuki Airi et Watanabe Mayu — portrait rapproché en robes blanches](../../images/UTB-Vol-200-11.jpg)
 
-![Suzuki Airi — portrait en costume Angel Versus Angel](../../../../images/UTB-Vol-200-21.jpg)
+![Suzuki Airi — portrait en costume Angel Versus Angel](../../images/UTB-Vol-200-21.jpg)
 
 ------------------------------------------------------------------------
 
