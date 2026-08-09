@@ -7,7 +7,6 @@
 ![Photo 1](../../../../images/See-you-karin.jpg)
 ![Photo 2](../../../../images/See-you-karin-2.jpg)
 ![Photo 3](../../../../images/See-you-karin-3.jpg)
-![Photo 4](../../../../images/See-you-karin-4.jpg)
 ![Photo 5](../../../../images/See-you-karin-4.jpg)
 ![Photo 6](../../../../images/See-you-karin-5.jpg)
 ![Photo 7](../../../../images/See-you-karin-6.jpg)
