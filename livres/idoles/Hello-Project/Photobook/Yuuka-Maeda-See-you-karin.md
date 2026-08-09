@@ -11,6 +11,7 @@
 ![Photo 6](../../../../images/See-you-karin-5.jpg)
 ![Photo 7](../../../../images/See-you-karin-6.jpg)
 ![Photo 8](../../../../images/See-you-karin-7.jpg)
+![Photo 8](../../../../images/See-you-karin-8.jpg)
 
 ## Informations
 
