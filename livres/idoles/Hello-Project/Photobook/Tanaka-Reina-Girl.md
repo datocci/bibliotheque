@@ -156,11 +156,10 @@ Le making-of complète le photobook avec des **séquences filmées et des commen
 
 *GIRL* associe une photographie **lumineuse, colorée et épurée** à un styling particulièrement varié : robe à pois, grand chapeau, maillot léopard, streetwear, tenue rouge ou ensembles blancs. Les fonds simples et les grands espaces de ciel ou de mer laissent Reina et ses changements d'attitude dominer l'image.
 
-![Tanaka Reina --- portrait en maillot léopard](../../../../images/Tanaka-Reina-Girl-7.jpg)
 
 Les portraits rapprochés exploitent particulièrement son regard, tandis que l'ensemble apparaît plus **fashion** qu'un simple photobook balnéaire.
 
-![Tanaka Reina --- regard derrière le filet](../../../../images/Tanaka-Reina-Girl-11.jpg)
+
 
 ---
 
@@ -212,7 +211,7 @@ Le **DVD making-of** est également apprécié pour sa durée d'environ vingt mi
 
 *GIRL* se distingue d'*Alo-Hello! Tanaka Reina*, pourtant publié la même année, en plaçant davantage **Reina et ses changements d'image au centre du projet**. Portraits, plage, streetwear, compositions fashion et intérieurs en font un volume particulièrement varié et représentatif de son image en 2007.
 
-![Tanaka Reina --- tenue blanche en intérieur](../../../../images/Tanaka-Reina-Girl-13.jpg)
+
 
 ### Mon ressenti
 
