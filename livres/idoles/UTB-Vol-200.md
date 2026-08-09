@@ -25,7 +25,6 @@ Wani Books • 2010
 
 ![Suzuki Airi et Watanabe Mayu — portrait rapproché en robes blanches](../../images/UTB-Vol-200-11.jpg)
 
-![Suzuki Airi — portrait en costume Angel Versus Angel](../../images/UTB-Vol-200-21.jpg)
 
 ------------------------------------------------------------------------
 
