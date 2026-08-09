@@ -169,7 +169,7 @@ Les portraits rapprochés exploitent particulièrement son regard, tandis que l'
 
 Cinquième photobook solo de Reina, il accorde également une vraie importance aux **doubles pages**, notamment autour du filet et des scènes dans l'eau.
 
-![Tanaka Reina --- double page au bord de l'eau](../../../../images/Tanaka-Reina-Girl-9.jpg)
+![Tanaka Reina
 
 L'ensemble forme ainsi un **portrait visuel à facettes**, davantage centré sur les changements d'image de Reina que sur un lieu ou une narration unique.
 
