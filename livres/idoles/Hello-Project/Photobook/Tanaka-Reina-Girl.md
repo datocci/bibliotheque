@@ -10,31 +10,31 @@ Wani Books • 2007
 
 ## Aperçu
 
-![Première de couverture](../../images/Tanaka-Reina-Girl-1.jpg)
+![Première de couverture](../../../../images/Tanaka-Reina-Girl-1.jpg)
 
-![Tanaka Reina --- robe à pois et grand chapeau noir](../../images/Tanaka-Reina-Girl-2.jpg)
+![Tanaka Reina --- robe à pois et grand chapeau noir](../../../../images/Tanaka-Reina-Girl-2.jpg)
 
-![Tanaka Reina --- regard derrière le filet](../../images/Tanaka-Reina-Girl-3.jpg)
+![Tanaka Reina --- regard derrière le filet](../../../../images/Tanaka-Reina-Girl-3.jpg)
 
-![Tanaka Reina --- maillot rose devant un filet sur la plage](../../images/Tanaka-Reina-Girl-4.jpg)
+![Tanaka Reina --- maillot rose devant un filet sur la plage](../../../../images/Tanaka-Reina-Girl-4.jpg)
 
-![Tanaka Reina --- tenue blanche et jupe rayée en intérieur](../../images/Tanaka-Reina-Girl-5.jpg)
+![Tanaka Reina --- tenue blanche et jupe rayée en intérieur](../../../../images/Tanaka-Reina-Girl-5.jpg)
 
-![Tanaka Reina --- portrait en maillot léopard et bandeau assorti](../../images/Tanaka-Reina-Girl-6.jpg)
+![Tanaka Reina --- portrait en maillot léopard et bandeau assorti](../../../../images/Tanaka-Reina-Girl-6.jpg)
 
-![Tanaka Reina --- portrait en maillot rayé sous le ciel d'Okinawa](../../images/Tanaka-Reina-Girl-7.jpg)
+![Tanaka Reina --- portrait en maillot rayé sous le ciel d'Okinawa](../../../../images/Tanaka-Reina-Girl-7.jpg)
 
-![Tanaka Reina --- tenue streetwear, casquette et jean](../../images/Tanaka-Reina-Girl-8.jpg)
+![Tanaka Reina --- tenue streetwear, casquette et jean](../../../../images/Tanaka-Reina-Girl-8.jpg)
 
-![Tanaka Reina --- maillot fleuri allongée au bord de l'eau](../../images/Tanaka-Reina-Girl-9.jpg)
+![Tanaka Reina --- maillot fleuri allongée au bord de l'eau](../../../../images/Tanaka-Reina-Girl-9.jpg)
 
-![Tanaka Reina --- maillot fleuri dans la mer à Okinawa](../../images/Tanaka-Reina-Girl-10.jpg)
+![Tanaka Reina --- maillot fleuri dans la mer à Okinawa](../../../../images/Tanaka-Reina-Girl-10.jpg)
 
-![Tanaka Reina --- portrait en tenue rouge, visage posé sur les mains](../../images/Tanaka-Reina-Girl-11.jpg)
+![Tanaka Reina --- portrait en tenue rouge, visage posé sur les mains](../../../../images/Tanaka-Reina-Girl-11.jpg)
 
-![Tanaka Reina --- tenue rouge devant une fenêtre](../../images/Tanaka-Reina-Girl-12.jpg)
+![Tanaka Reina --- tenue rouge devant une fenêtre](../../../../images/Tanaka-Reina-Girl-12.jpg)
 
-![Quatrième de couverture --- Tanaka Reina allongée sur un lit en tenue rouge](../../images/Tanaka-Reina-Girl-13.jpg)
+![Quatrième de couverture --- Tanaka Reina allongée sur un lit en tenue rouge](../../../../images/Tanaka-Reina-Girl-13.jpg)
 
 ------------------------------------------------------------------------
 
