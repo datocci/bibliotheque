@@ -62,7 +62,7 @@ Kids Net / KADOKAWA • 2004
 
 ![Morning Musume。— groupe réuni autour d'un grand hamac](../../../../images/Alo-Hello!-2-130.jpg)
 
-![Quatrième de couverture](../../images/Alo-Hello!-2-141.jpg)
+![Quatrième de couverture](../../../../images/Alo-Hello!-2-141.jpg)
 
 ---
 
