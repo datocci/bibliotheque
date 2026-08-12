@@ -12,7 +12,7 @@ Kids Net / KADOKAWA • 2004
 
 ## Aperçu
 
-![Première de couverture](../../images/Alo-Hello!-2-000.jpg)
+![Première de couverture](../../../../images/Alo-Hello!-2-000.jpg)
 
 ![Morning Musume。— les douze membres devant un bus scolaire jaune à Hawaï](../../../../images/Alo-Hello!-2-007-008.jpg)
 
